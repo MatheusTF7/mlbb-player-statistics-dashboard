@@ -44,6 +44,18 @@ const darkMode = ref($q.dark.isActive);
 
 const linksList: EssentialLinkProps[] = [
   {
+    title: 'Dashboard',
+    caption: 'Match statistics and analysis',
+    icon: 'dashboard',
+    link: '/dashboard',
+  },
+  {
+    title: 'Player Analysis',
+    caption: 'Individual player stats',
+    icon: 'person',
+    link: '/dashboard/player',
+  },
+  {
     title: 'Region Editor',
     caption: 'Edit MLBB image regions',
     icon: 'image',

@@ -13,6 +13,16 @@ const routes: RouteRecordRaw[] = [
     children: [{ path: '', component: () => import('pages/MLBBRegionEditor.vue') }],
   },
 
+  {
+    path: '/dashboard',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [
+      { path: '', component: () => import('pages/MatchDashboard.vue') },
+      { path: 'player', component: () => import('pages/PlayerDetailPage.vue') },
+      { path: 'player/:nickname', component: () => import('pages/PlayerDetailPage.vue') },
+    ],
+  },
+
   // Always leave this as last one,
   // but you can also remove it
   {
