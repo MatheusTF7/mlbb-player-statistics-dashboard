@@ -23,7 +23,7 @@ function computeRatioFromKDA(kills, assists, deaths) {
 function medalFromRatio(ratio) {
   if (ratio > 7.6) return 'GOLD';
   if (ratio > 5) return 'SILVER';
-  return 'BRONZE';
+  return 'COPPER';
 }
 
 function generateFakeMatches(count, nickname) {

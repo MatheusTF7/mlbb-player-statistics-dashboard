@@ -97,7 +97,7 @@
         "deaths": 12,
         "assists": 1,
         "gold": 17840,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 3,
         "is_mvp": false
@@ -150,7 +150,7 @@
         "deaths": 15,
         "assists": 5,
         "gold": 12653,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 2,
         "is_mvp": false
@@ -214,7 +214,7 @@
         "deaths": 13,
         "assists": 6,
         "gold": 17718,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3.4,
         "position": 2,
         "is_mvp": false
@@ -236,7 +236,7 @@
         "deaths": 13,
         "assists": 2,
         "gold": 8725,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 4.7,
         "position": 4,
         "is_mvp": false
@@ -726,7 +726,7 @@
         "deaths": 14,
         "assists": 12,
         "gold": 14941,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 4.3,
         "position": 2,
         "is_mvp": false
@@ -865,7 +865,7 @@
         "deaths": 14,
         "assists": 0,
         "gold": 15551,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 3,
         "is_mvp": false
@@ -1079,7 +1079,7 @@
         "deaths": 12,
         "assists": 4,
         "gold": 15263,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3.4,
         "position": 5,
         "is_mvp": false
@@ -1675,7 +1675,7 @@
         "deaths": 15,
         "assists": 10,
         "gold": 14846,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 4.3,
         "position": 1,
         "is_mvp": false
@@ -1814,7 +1814,7 @@
         "deaths": 14,
         "assists": 3,
         "gold": 12849,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 2,
         "is_mvp": false
@@ -2006,7 +2006,7 @@
         "deaths": 12,
         "assists": 5,
         "gold": 11770,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 4.3,
         "position": 2,
         "is_mvp": false
@@ -2518,7 +2518,7 @@
         "deaths": 15,
         "assists": 7,
         "gold": 9105,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 2,
         "is_mvp": false
@@ -2699,7 +2699,7 @@
         "deaths": 14,
         "assists": 1,
         "gold": 14973,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 1,
         "is_mvp": false
@@ -2710,7 +2710,7 @@
         "deaths": 13,
         "assists": 1,
         "gold": 12087,
-        "medal": "BRONZE",
+        "medal": "COPPER",
         "ratio": 3,
         "position": 2,
         "is_mvp": false

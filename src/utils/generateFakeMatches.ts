@@ -22,7 +22,7 @@ export interface MatchData {
 }
 
 const MEDALS = {
-  COPPER: 'BRONZE',
+  COPPER: 'COPPER',
   SILVER: 'SILVER',
   GOLD: 'GOLD',
 } as const;
@@ -70,7 +70,7 @@ export default function generateFakeMatches(count: number, nickname: string): Ma
       // compute ratio (3.0..18.0) from KDA
       const ratio = computeRatioFromKDA(kills, assists, deaths);
 
-      // determine medal from ratio: <=5 -> BRONZE, >5 and <=7.6 -> SILVER, >7.6 -> GOLD
+      // determine medal from ratio: <=5 -> COPPER, >5 and <=7.6 -> SILVER, >7.6 -> GOLD
       let medal: MedalType = MEDALS.COPPER;
       if (ratio > 7.6) {
         medal = MEDALS.GOLD;
