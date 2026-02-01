@@ -1,8 +1,6 @@
 // Configuration for your app
 // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file
 
-/* eslint-disable @typescript-eslint/no-var-requires */
-
 import { defineConfig } from '#q-app/wrappers';
 
 export default defineConfig((/* ctx */) => {
@@ -101,7 +99,7 @@ export default defineConfig((/* ctx */) => {
       // directives: [],
 
       // Quasar plugins
-      plugins: [],
+      plugins: ['Notify'],
     },
 
     // animations: 'all', // --- includes all animations

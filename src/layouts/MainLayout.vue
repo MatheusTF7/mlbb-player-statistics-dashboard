@@ -44,10 +44,10 @@ const darkMode = ref($q.dark.isActive);
 
 const linksList: EssentialLinkProps[] = [
   {
-    title: 'nav.home',
-    caption: 'drawList.subtitle',
-    icon: 'house',
-    link: '/home',
+    title: 'Region Editor',
+    caption: 'Edit MLBB image regions',
+    icon: 'image',
+    link: '/mlbb',
   },
 ];
 
