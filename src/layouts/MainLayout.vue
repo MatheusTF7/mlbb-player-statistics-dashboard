@@ -56,6 +56,12 @@ const linksList: EssentialLinkProps[] = [
     link: '/player',
   },
   {
+    title: 'TODOs',
+    caption: 'Próximos passos e tarefas',
+    icon: 'list',
+    link: '/dashboard/todos',
+  },
+  {
     title: 'Region Editor',
     caption: 'Edit MLBB image regions',
     icon: 'image',

@@ -15,7 +15,10 @@ const routes: RouteRecordRaw[] = [
   {
     path: '/dashboard',
     component: () => import('layouts/MainLayout.vue'),
-    children: [{ path: '', component: () => import('pages/MatchDashboard.vue') }],
+    children: [
+      { path: '', component: () => import('pages/MatchDashboard.vue') },
+      { path: 'todos', component: () => import('pages/TodosPage.vue') },
+    ],
   },
 
   {
