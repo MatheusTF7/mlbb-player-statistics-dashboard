@@ -6,7 +6,17 @@
 
         <q-toolbar-title> Quasar App </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>
+          <q-btn
+            :color="darkMode ? 'yellow' : 'blue-grey-9'"
+            :icon="darkMode ? 'dark_mode' : 'light_mode'"
+            round
+            dense
+            flat
+            class="q-mr-sm"
+            @click="toggleDarkMode"
+          />
+        </div>
       </q-toolbar>
     </q-header>
 
@@ -25,51 +35,19 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 import EssentialLink, { type EssentialLinkProps } from 'components/EssentialLink.vue';
+import { useQuasar } from 'quasar';
+const $q = useQuasar();
+
+const darkMode = ref($q.dark.isActive);
 
 const linksList: EssentialLinkProps[] = [
   {
-    title: 'Docs',
-    caption: 'quasar.dev',
-    icon: 'school',
-    link: 'https://quasar.dev',
-  },
-  {
-    title: 'Github',
-    caption: 'github.com/quasarframework',
-    icon: 'code',
-    link: 'https://github.com/quasarframework',
-  },
-  {
-    title: 'Discord Chat Channel',
-    caption: 'chat.quasar.dev',
-    icon: 'chat',
-    link: 'https://chat.quasar.dev',
-  },
-  {
-    title: 'Forum',
-    caption: 'forum.quasar.dev',
-    icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev',
-  },
-  {
-    title: 'Twitter',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev',
-  },
-  {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
-    icon: 'public',
-    link: 'https://facebook.quasar.dev',
-  },
-  {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev',
+    title: 'nav.home',
+    caption: 'drawList.subtitle',
+    icon: 'house',
+    link: '/home',
   },
 ];
 
@@ -78,4 +56,21 @@ const leftDrawerOpen = ref(false);
 function toggleLeftDrawer() {
   leftDrawerOpen.value = !leftDrawerOpen.value;
 }
+
+function toggleDarkMode() {
+  $q.dark.toggle();
+  darkMode.value = $q.dark.isActive;
+  localStorage.setItem('dark_mode', String($q.dark.isActive));
+}
+
+onMounted(() => {
+  const savedMode = localStorage.getItem('dark_mode');
+  if (savedMode !== null) {
+    const isDark = savedMode === 'true';
+    if (isDark !== $q.dark.isActive) {
+      $q.dark.set(isDark);
+      darkMode.value = isDark;
+    }
+  }
+});
 </script>
