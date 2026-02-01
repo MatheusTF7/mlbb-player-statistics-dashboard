@@ -12,7 +12,7 @@
     <q-card class="q-mb-md" flat bordered>
       <q-card-section>
         <div class="text-h6 q-mb-md">
-          <q-icon name="image" class="q-mr-sm" />
+          <q-icon name="lucide:image" class="q-mr-sm" />
           Configuração
         </div>
 
@@ -29,7 +29,13 @@
               map-options
             >
               <template v-slot:append>
-                <q-btn flat dense icon="add" color="primary" @click="showNewProfileDialog = true">
+                <q-btn
+                  flat
+                  dense
+                  icon="lucide:plus"
+                  color="primary"
+                  @click="showNewProfileDialog = true"
+                >
                   <q-tooltip>Novo Perfil</q-tooltip>
                 </q-btn>
               </template>
@@ -50,7 +56,7 @@
                 <q-btn
                   flat
                   dense
-                  icon="download"
+                  icon="lucide:download"
                   color="primary"
                   @click="loadImage"
                   :disable="!imageUrl"
@@ -72,7 +78,7 @@
               @update:model-value="handleFileUpload"
             >
               <template v-slot:prepend>
-                <q-icon name="upload" />
+                <q-icon name="lucide:upload" />
               </template>
             </q-file>
           </div>
@@ -116,7 +122,7 @@
             <q-btn
               color="primary"
               label="Exportar JSON"
-              icon="download"
+              icon="lucide:download"
               @click="exportData"
               :disable="!configData.profiles.length"
               unelevated
@@ -127,7 +133,7 @@
               outline
               color="primary"
               label="Importar JSON"
-              icon="upload"
+              icon="lucide:upload"
               @click="showImportDialog = true"
               unelevated
             />
@@ -136,7 +142,7 @@
             <q-btn
               color="negative"
               label="Limpar Perfil"
-              icon="delete"
+              icon="lucide:trash-2"
               @click="clearCurrentProfile"
               :disable="!currentProfile"
               outline
@@ -152,7 +158,7 @@
       <q-card class="q-mb-md" flat bordered>
         <q-card-section>
           <div class="text-subtitle1 q-mb-sm">
-            <q-icon name="ads_click" class="q-mr-sm" />
+            <q-icon name="lucide:target" class="q-mr-sm" />
             Região Selecionada para Edição
           </div>
 
@@ -174,7 +180,7 @@
               <q-btn
                 color="primary"
                 :label="selectedRegionKey ? 'Redesenhar Região' : 'Desenhar Nova Região'"
-                icon="edit"
+                icon="lucide:pencil"
                 :disable="!selectedRegionKey"
                 @click="startDrawingMode"
                 unelevated
@@ -182,7 +188,7 @@
             </div>
 
             <div class="col-auto" v-if="isDrawingMode">
-              <q-chip color="warning" text-color="dark" icon="info">
+              <q-chip color="warning" text-color="dark" icon="lucide:info">
                 Clique e arraste na imagem para definir a região
               </q-chip>
             </div>
@@ -308,7 +314,7 @@
 
     <!-- Mensagem quando não há imagem -->
     <q-card v-else flat bordered class="text-center q-pa-xl">
-      <q-icon name="hide_image" size="64px" color="grey-5" />
+      <q-icon name="lucide:image-off" size="64px" color="grey-5" />
       <p class="text-h6 text-grey-6 q-mt-md">Nenhuma imagem carregada</p>
       <p class="text-body2 text-grey-5">
         Adicione uma URL de screenshot ou faça upload para começar a editar as regiões
@@ -319,7 +325,7 @@
     <q-card v-if="currentProfile" class="q-mt-md" flat bordered>
       <q-card-section>
         <div class="text-h6 q-mb-md">
-          <q-icon name="layers" class="q-mr-sm" />
+          <q-icon name="lucide:layers" class="q-mr-sm" />
           Regiões do Perfil
         </div>
 
@@ -349,7 +355,15 @@
         <!-- Regiões de Jogadores -->
         <div class="text-subtitle2 q-mb-sm">
           Jogadores ({{ currentProfile.players?.length || 0 }})
-          <q-btn flat dense size="sm" icon="add" color="primary" @click="addPlayer" class="q-ml-sm">
+          <q-btn
+            flat
+            dense
+            size="sm"
+            icon="lucide:plus"
+            color="primary"
+            @click="addPlayer"
+            class="q-ml-sm"
+          >
             <q-tooltip>Adicionar Jogador</q-tooltip>
           </q-btn>
         </div>
@@ -358,9 +372,8 @@
           v-for="(player, index) in currentProfile.players"
           :key="'player-panel-' + index"
           :label="`Jogador ${index + 1}`"
-          icon="person"
+          icon="lucide:user"
           dense
-          separator
           header-class="custom-bg"
           class="q-mb-sm"
         >
@@ -394,7 +407,7 @@
                   flat
                   dense
                   size="sm"
-                  icon="content_copy"
+                  icon="lucide:copy"
                   color="primary"
                   @click="duplicatePlayer(index)"
                 >
@@ -404,7 +417,7 @@
                   flat
                   dense
                   size="sm"
-                  icon="delete"
+                  icon="lucide:trash-2"
                   color="negative"
                   @click="removePlayer(index)"
                   :disable="(currentProfile.players?.length || 0) <= 1"
@@ -529,7 +542,7 @@
             label="Copiar JSON"
             color="secondary"
             @click="copyJsonToClipboard"
-            icon="content_copy"
+            icon="lucide:copy"
           />
           <q-btn flat label="Fechar" color="primary" v-close-popup />
         </q-card-actions>
