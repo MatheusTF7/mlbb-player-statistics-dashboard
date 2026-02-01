@@ -1,0 +1,66 @@
+[
+  {
+    "result": "VICTORY",
+    "my_team_score": 35,
+    "adversary_team_score": 20,
+    "duration": "16:22",
+    "my_team": [
+      {
+        "nickname": "Eliza.",
+        "kills": 7,
+        "deaths": 3,
+        "assists": 5,
+        "gold": 12390,
+        "medal": "GOLD",
+        "ratio": 7.8,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "elcaballero",
+        "kills": 3,
+        "deaths": 7,
+        "assists": 9,
+        "gold": 9676,
+        "medal": "SILVER",
+        "ratio": 6.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 2,
+        "deaths": 5,
+        "assists": 15,
+        "gold": 10534,
+        "medal": "GOLD",
+        "ratio": 8.7,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Yo+4 Mir_Valenz",
+        "kills": 4,
+        "deaths": 1,
+        "assists": 7,
+        "gold": 9735,
+        "medal": "GOLD",
+        "ratio": 7.5,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "FML Youtube Faria Mobile",
+        "kills": 19,
+        "deaths": 4,
+        "assists": 4,
+        "gold": 14726,
+        "medal": "GOLD",
+        "ratio": 11.5,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  }
+]
