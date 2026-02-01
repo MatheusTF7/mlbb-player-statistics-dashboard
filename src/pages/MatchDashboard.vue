@@ -13,7 +13,7 @@
           color="primary"
           icon="lucide:user"
           label="Análise de Jogador"
-          to="/dashboard/player"
+          to="/player"
           unelevated
         />
       </div>
@@ -211,7 +211,7 @@
               <template v-slot:body-cell-nickname="props">
                 <q-td :props="props">
                   <router-link
-                    :to="`/dashboard/player/${encodeURIComponent(props.row.nickname)}`"
+                    :to="`/player/${encodeURIComponent(props.row.nickname)}`"
                     class="text-primary text-weight-medium"
                   >
                     {{ props.row.nickname }}

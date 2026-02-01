@@ -3,8 +3,7 @@ import type { RouteRecordRaw } from 'vue-router';
 const routes: RouteRecordRaw[] = [
   {
     path: '/',
-    component: () => import('layouts/MainLayout.vue'),
-    children: [{ path: '', component: () => import('pages/IndexPage.vue') }],
+    redirect: '/dashboard',
   },
 
   {
@@ -16,10 +15,15 @@ const routes: RouteRecordRaw[] = [
   {
     path: '/dashboard',
     component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('pages/MatchDashboard.vue') }],
+  },
+
+  {
+    path: '/player',
+    component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/MatchDashboard.vue') },
-      { path: 'player', component: () => import('pages/PlayerDetailPage.vue') },
-      { path: 'player/:nickname', component: () => import('pages/PlayerDetailPage.vue') },
+      { path: '', component: () => import('pages/PlayerDetailPage.vue') },
+      { path: ':nickname', component: () => import('pages/PlayerDetailPage.vue') },
     ],
   },
 

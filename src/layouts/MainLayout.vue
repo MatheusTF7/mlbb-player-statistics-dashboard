@@ -53,7 +53,7 @@ const linksList: EssentialLinkProps[] = [
     title: 'Player Analysis',
     caption: 'Individual player stats',
     icon: 'person',
-    link: '/dashboard/player',
+    link: '/player',
   },
   {
     title: 'Region Editor',

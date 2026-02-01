@@ -442,7 +442,7 @@ onMounted(() => {
 // Atualizar rota quando mudar jogador
 watch(selectedPlayer, (newVal) => {
   if (newVal && newVal !== route.params.nickname) {
-    void router.replace(`/dashboard/player/${encodeURIComponent(newVal)}`);
+    void router.replace(`/player/${encodeURIComponent(newVal)}`);
   }
 });
 
