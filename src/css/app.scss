@@ -1,1 +1,29 @@
 // app global css in SCSS form
+
+.body--light {
+  background-color: $light-page;
+  color: $text-color;
+
+  .custom-bg {
+    background-color: $slate-50;
+    border-color: $slate-100;
+  }
+}
+
+.body--dark {
+  background-color: $dark-page;
+  color: $slate-200;
+
+  .custom-bg {
+    background-color: $slate-800;
+    border-color: $slate-700;
+  }
+}
+
+.header--light {
+  color: $text-color;
+  background-color: white !important;
+}
+.header--dark {
+  background-color: $dark;
+}

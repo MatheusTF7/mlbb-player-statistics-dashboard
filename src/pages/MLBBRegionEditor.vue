@@ -114,7 +114,7 @@
         <div class="row q-col-gutter-sm q-mt-md">
           <div class="col-auto">
             <q-btn
-              color="secondary"
+              color="primary"
               label="Exportar JSON"
               icon="download"
               @click="exportData"
@@ -124,6 +124,7 @@
           </div>
           <div class="col-auto">
             <q-btn
+              outline
               color="primary"
               label="Importar JSON"
               icon="upload"
@@ -359,7 +360,8 @@
           :label="`Jogador ${index + 1}`"
           icon="person"
           dense
-          header-class="edq-bg-risk"
+          separator
+          header-class="custom-bg"
           class="q-mb-sm"
         >
           <q-card>
@@ -378,8 +380,9 @@
                     <q-card-section class="q-pa-xs">
                       <div class="text-weight-medium text-caption">{{ regionKey }}</div>
                       <div v-if="region" class="text-caption text-grey-6" style="font-size: 10px">
-                        {{ (region as Region).x.toFixed(1) }}%,
-                        {{ (region as Region).y.toFixed(1) }}%
+                        x: {{ region.x.toFixed(2) }}% | y: {{ region.y.toFixed(2) }}%
+                        <br />
+                        w: {{ region.w.toFixed(2) }}% | h: {{ region.h.toFixed(2) }}%
                       </div>
                     </q-card-section>
                   </q-card>
@@ -538,7 +541,8 @@
 <script setup lang="ts">
 import { ref, computed, watch, onMounted } from 'vue';
 import { Notify, copyToClipboard } from 'quasar';
-import defaultConfig from '../data/default.json';
+import regionConfig from '../data/region_config.json';
+import defaultImgRegionConfig from '../assets/default_region_img.jpeg';
 
 // ==================== Interfaces ====================
 
@@ -705,13 +709,19 @@ watch(activeProfileName, (newName) => {
 // Ao montar, carregar o default.json se não houver configurações
 onMounted(() => {
   try {
-    const data = defaultConfig as ConfigData;
+    const data = regionConfig as ConfigData;
 
     if (
       (!configData.value.profiles || configData.value.profiles.length === 0) &&
       data?.profiles?.length
     ) {
       configData.value = data;
+    }
+
+    if (defaultImgRegionConfig) {
+      imageSrc.value = defaultImgRegionConfig;
+      imageFile.value = new File([defaultImgRegionConfig], 'default_region_img.jpeg');
+      imageUrl.value = 'default_region_img.jpeg';
     }
 
     // Definir perfil ativo se ainda não estiver definido
@@ -727,7 +737,7 @@ onMounted(() => {
     }
   } catch (err) {
     // não-fatal: apenas logar
-    console.warn('Erro ao carregar defaultConfig:', err);
+    console.warn('Erro ao carregar regionConfig:', err);
   }
 });
 
