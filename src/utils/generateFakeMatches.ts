@@ -14,6 +14,8 @@ export interface PlayerStat {
 
 export interface MatchData {
   result: string;
+  date: string;
+  group: GroupType;
   my_team_score: number;
   adversary_team_score: number;
   duration: string; // mm:ss
@@ -27,7 +29,15 @@ const MEDALS = {
   GOLD: 'GOLD',
 } as const;
 
+const GROUPS = {
+  SOLO: 'SOLO',
+  DUO: 'DUO',
+  TRIO: 'TRIO',
+  FULL: 'FULL',
+} as const;
+
 type MedalType = (typeof MEDALS)[keyof typeof MEDALS];
+type GroupType = (typeof GROUPS)[keyof typeof GROUPS];
 
 function fmtDuration(minutes: number, seconds: number) {
   const mm = String(minutes).padStart(2, '0');
@@ -51,6 +61,12 @@ export default function generateFakeMatches(count: number, nickname: string): Ma
 
   for (let i = 0; i < count; i++) {
     const my_team_score = faker.number.int({ min: 0, max: 50 });
+    const group: GroupType = faker.helpers.arrayElement([
+      GROUPS.SOLO,
+      GROUPS.DUO,
+      GROUPS.TRIO,
+      GROUPS.FULL,
+    ]);
     const adversary_team_score = faker.number.int({ min: 0, max: 50 });
     const minutes = faker.number.int({ min: 8, max: 30 });
     const seconds = faker.number.int({ min: 0, max: 59 });
@@ -130,6 +146,8 @@ export default function generateFakeMatches(count: number, nickname: string): Ma
 
     const match: MatchData = {
       result: my_team_score > adversary_team_score ? 'VICTORY' : 'DEFEAT',
+      date: new Date().toISOString(),
+      group,
       my_team_score,
       adversary_team_score,
       duration: fmtDuration(minutes, seconds),

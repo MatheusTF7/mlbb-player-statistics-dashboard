@@ -1,830 +1,130 @@
 [
   {
-    "result": "VICTORY",
-    "my_team_score": 46,
-    "adversary_team_score": 32,
-    "duration": "09:35",
-    "my_team": [
-      {
-        "nickname": "Alexandria97",
-        "kills": 12,
-        "deaths": 4,
-        "assists": 10,
-        "gold": 14374,
-        "medal": "GOLD",
-        "ratio": 12.9,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Arlene_Hyatt41",
-        "kills": 22,
-        "deaths": 14,
-        "assists": 0,
-        "gold": 11745,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 25,
-        "deaths": 9,
-        "assists": 18,
-        "gold": 12756,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Greta43",
-        "kills": 16,
-        "deaths": 10,
-        "assists": 9,
-        "gold": 15884,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Zachery55",
-        "kills": 10,
-        "deaths": 9,
-        "assists": 15,
-        "gold": 11353,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
+    "date": "2026-02-03T07:02:56.718Z",
+    "group": "SOLO",
     "result": "DEFEAT",
-    "my_team_score": 15,
-    "adversary_team_score": 29,
-    "duration": "25:13",
+    "my_team_score": 38,
+    "adversary_team_score": 48,
+    "duration": "10:42",
     "my_team": [
       {
-        "nickname": "Earline_Rohan",
-        "kills": 24,
-        "deaths": 8,
-        "assists": 11,
-        "gold": 12018,
-        "medal": "GOLD",
-        "ratio": 16.7,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Eileen_Lindgren13",
-        "kills": 17,
-        "deaths": 9,
-        "assists": 8,
-        "gold": 10641,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Dereck_Reichel-Turner87",
-        "kills": 5,
-        "deaths": 12,
-        "assists": 1,
-        "gold": 17840,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 20,
-        "deaths": 0,
-        "assists": 5,
-        "gold": 9915,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Beaulah.Huels-Will",
-        "kills": 12,
-        "deaths": 7,
-        "assists": 5,
-        "gold": 10071,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 24,
-    "adversary_team_score": 6,
-    "duration": "29:09",
-    "my_team": [
-      {
-        "nickname": "Elroy27",
-        "kills": 23,
-        "deaths": 8,
-        "assists": 13,
-        "gold": 9794,
-        "medal": "GOLD",
-        "ratio": 17.1,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Ed.Herzog36",
-        "kills": 3,
-        "deaths": 15,
-        "assists": 5,
-        "gold": 12653,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Alexandrine.Miller7",
-        "kills": 11,
-        "deaths": 15,
-        "assists": 11,
-        "gold": 11681,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 21,
-        "deaths": 0,
-        "assists": 5,
-        "gold": 14937,
-        "medal": "GOLD",
-        "ratio": 16.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jessika.Schaefer",
-        "kills": 17,
-        "deaths": 4,
-        "assists": 8,
-        "gold": 9289,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 11,
-    "adversary_team_score": 3,
-    "duration": "10:04",
-    "my_team": [
-      {
-        "nickname": "Zachery.Aufderhar",
+        "nickname": "Tyler.Heaney77",
         "kills": 0,
         "deaths": 11,
-        "assists": 12,
-        "gold": 17745,
-        "medal": "SILVER",
-        "ratio": 5.6,
+        "assists": 20,
+        "gold": 12982,
+        "medal": "GOLD",
+        "ratio": 9,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "Ken56",
-        "kills": 3,
-        "deaths": 13,
-        "assists": 6,
-        "gold": 17718,
-        "medal": "COPPER",
-        "ratio": 3.4,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 12,
-        "deaths": 5,
-        "assists": 17,
-        "gold": 12586,
-        "medal": "GOLD",
-        "ratio": 15.4,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Erwin.Legros33",
-        "kills": 10,
-        "deaths": 13,
-        "assists": 2,
-        "gold": 8725,
+        "nickname": "Randi_Gutkowski",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 11,
+        "gold": 15246,
         "medal": "COPPER",
         "ratio": 4.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Danial14",
-        "kills": 23,
-        "deaths": 7,
-        "assists": 7,
-        "gold": 15665,
-        "medal": "GOLD",
-        "ratio": 15,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 40,
-    "adversary_team_score": 14,
-    "duration": "28:50",
-    "my_team": [
-      {
-        "nickname": "Naomie28",
-        "kills": 2,
-        "deaths": 5,
-        "assists": 10,
-        "gold": 13662,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Lilian4",
-        "kills": 19,
-        "deaths": 13,
-        "assists": 1,
-        "gold": 13873,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Audra29",
-        "kills": 24,
-        "deaths": 6,
-        "assists": 2,
-        "gold": 14079,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Jabari.Jacobi85",
-        "kills": 21,
-        "deaths": 14,
-        "assists": 13,
-        "gold": 13522,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 4,
-        "assists": 12,
-        "gold": 8973,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 6,
-    "adversary_team_score": 14,
-    "duration": "16:11",
-    "my_team": [
-      {
-        "nickname": "Flavie_Hoppe",
-        "kills": 6,
-        "deaths": 4,
-        "assists": 1,
-        "gold": 10793,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Moshe.Erdman10",
-        "kills": 21,
-        "deaths": 5,
-        "assists": 11,
-        "gold": 8787,
-        "medal": "GOLD",
-        "ratio": 16.7,
         "position": 2,
         "is_mvp": false
       },
       {
         "nickname": "MTF7",
-        "kills": 9,
-        "deaths": 0,
-        "assists": 17,
-        "gold": 13647,
-        "medal": "GOLD",
-        "ratio": 16.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Martina.Waelchi73",
-        "kills": 20,
-        "deaths": 0,
-        "assists": 3,
-        "gold": 15414,
-        "medal": "GOLD",
-        "ratio": 15,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Reagan.Bergstrom28",
         "kills": 17,
-        "deaths": 8,
-        "assists": 20,
-        "gold": 10490,
-        "medal": "GOLD",
-        "ratio": 17.6,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 36,
-    "adversary_team_score": 11,
-    "duration": "15:37",
-    "my_team": [
-      {
-        "nickname": "Amber22",
-        "kills": 2,
-        "deaths": 12,
-        "assists": 19,
-        "gold": 8821,
-        "medal": "GOLD",
-        "ratio": 9,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Anne.Lueilwitz-Barton",
-        "kills": 19,
-        "deaths": 3,
-        "assists": 2,
-        "gold": 16507,
+        "deaths": 2,
+        "assists": 3,
+        "gold": 8260,
         "medal": "GOLD",
         "ratio": 12.9,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Sonia25",
-        "kills": 2,
-        "deaths": 7,
-        "assists": 9,
-        "gold": 16559,
-        "medal": "SILVER",
-        "ratio": 6.9,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 5,
-        "assists": 12,
-        "gold": 8750,
+        "nickname": "Pauline_Wolff",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 15,
+        "gold": 9532,
         "medal": "GOLD",
-        "ratio": 10.3,
+        "ratio": 7.7,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Loy14",
-        "kills": 11,
-        "deaths": 3,
-        "assists": 6,
-        "gold": 9042,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 34,
-    "adversary_team_score": 48,
-    "duration": "21:24",
-    "my_team": [
-      {
-        "nickname": "Ena.Terry4",
-        "kills": 23,
-        "deaths": 0,
-        "assists": 12,
-        "gold": 15209,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Wilfred17",
-        "kills": 25,
-        "deaths": 0,
-        "assists": 4,
-        "gold": 10869,
-        "medal": "GOLD",
-        "ratio": 17.6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 17,
-        "deaths": 7,
-        "assists": 11,
-        "gold": 8483,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Dangelo.Runte32",
-        "kills": 12,
-        "deaths": 0,
-        "assists": 12,
-        "gold": 13971,
-        "medal": "GOLD",
-        "ratio": 15.4,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Faye.Roob",
-        "kills": 6,
-        "deaths": 14,
-        "assists": 12,
-        "gold": 14681,
-        "medal": "SILVER",
-        "ratio": 6.9,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 25,
-    "adversary_team_score": 27,
-    "duration": "25:54",
-    "my_team": [
-      {
-        "nickname": "MTF7",
+        "nickname": "Stephon_Hyatt96",
         "kills": 21,
-        "deaths": 2,
-        "assists": 13,
-        "gold": 13828,
+        "deaths": 5,
+        "assists": 14,
+        "gold": 14226,
         "medal": "GOLD",
         "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Felix53",
-        "kills": 2,
-        "deaths": 4,
-        "assists": 11,
-        "gold": 13571,
-        "medal": "GOLD",
-        "ratio": 9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Eva_Bayer12",
-        "kills": 12,
-        "deaths": 8,
-        "assists": 11,
-        "gold": 17149,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Audra.Mayer17",
-        "kills": 12,
-        "deaths": 5,
-        "assists": 8,
-        "gold": 9677,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Mavis73",
-        "kills": 8,
-        "deaths": 2,
-        "assists": 9,
-        "gold": 12526,
-        "medal": "GOLD",
-        "ratio": 11.6,
         "position": 5,
-        "is_mvp": false
+        "is_mvp": true
       }
     ],
     "enemy_team": []
   },
   {
+    "date": "2026-01-30T23:18:27.593Z",
+    "group": "TRIO",
     "result": "DEFEAT",
-    "my_team_score": 8,
-    "adversary_team_score": 47,
-    "duration": "28:11",
+    "my_team_score": 14,
+    "adversary_team_score": 16,
+    "duration": "30:22",
     "my_team": [
-      {
-        "nickname": "Kailyn82",
-        "kills": 20,
-        "deaths": 0,
-        "assists": 2,
-        "gold": 14046,
-        "medal": "GOLD",
-        "ratio": 14.6,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jonatan.Torp",
-        "kills": 1,
-        "deaths": 9,
-        "assists": 9,
-        "gold": 13603,
-        "medal": "SILVER",
-        "ratio": 5.6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Eriberto2",
-        "kills": 1,
-        "deaths": 2,
-        "assists": 9,
-        "gold": 9391,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 24,
-        "deaths": 5,
-        "assists": 6,
-        "gold": 16297,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 4,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Clement34",
-        "kills": 2,
-        "deaths": 6,
-        "assists": 14,
-        "gold": 10387,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 48,
-    "adversary_team_score": 47,
-    "duration": "28:07",
-    "my_team": [
-      {
-        "nickname": "Stacy64",
-        "kills": 24,
-        "deaths": 11,
-        "assists": 19,
-        "gold": 16972,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Vivien.Harber",
-        "kills": 19,
-        "deaths": 4,
-        "assists": 19,
-        "gold": 15190,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Bernardo_Rutherford46",
-        "kills": 9,
-        "deaths": 2,
-        "assists": 14,
-        "gold": 16350,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 18,
-        "deaths": 11,
-        "assists": 9,
-        "gold": 15026,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Lionel67",
-        "kills": 15,
-        "deaths": 4,
-        "assists": 9,
-        "gold": 10209,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 47,
-    "adversary_team_score": 9,
-    "duration": "13:54",
-    "my_team": [
-      {
-        "nickname": "Alisa_Mayert",
-        "kills": 0,
-        "deaths": 5,
-        "assists": 7,
-        "gold": 17457,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 0,
-        "deaths": 14,
-        "assists": 12,
-        "gold": 14941,
-        "medal": "COPPER",
-        "ratio": 4.3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Antonette_King",
-        "kills": 11,
-        "deaths": 13,
-        "assists": 4,
-        "gold": 9954,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Cassie_Bode36",
-        "kills": 13,
-        "deaths": 7,
-        "assists": 14,
-        "gold": 10065,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 4,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Jada5",
-        "kills": 19,
-        "deaths": 14,
-        "assists": 9,
-        "gold": 8143,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 21,
-    "adversary_team_score": 49,
-    "duration": "08:18",
-    "my_team": [
-      {
-        "nickname": "Lessie71",
-        "kills": 25,
-        "deaths": 2,
-        "assists": 17,
-        "gold": 16524,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Emerald_Ruecker65",
-        "kills": 6,
-        "deaths": 9,
-        "assists": 13,
-        "gold": 12040,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Madison_Jacobson2",
-        "kills": 23,
-        "deaths": 13,
-        "assists": 9,
-        "gold": 9969,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 3,
-        "is_mvp": false
-      },
       {
         "nickname": "MTF7",
         "kills": 7,
         "deaths": 10,
         "assists": 11,
-        "gold": 11984,
+        "gold": 8518,
         "medal": "GOLD",
         "ratio": 8.6,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Dayna.Schoen22",
+        "kills": 5,
+        "deaths": 5,
+        "assists": 17,
+        "gold": 15926,
+        "medal": "GOLD",
+        "ratio": 12.4,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 2,
+        "deaths": 9,
+        "assists": 11,
+        "gold": 12135,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Martin.Frami48",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 8,
+        "gold": 11804,
+        "medal": "SILVER",
+        "ratio": 5.1,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Pablo84",
-        "kills": 5,
-        "deaths": 5,
-        "assists": 18,
-        "gold": 8393,
-        "medal": "GOLD",
-        "ratio": 12.9,
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 11,
+        "gold": 9830,
+        "medal": "SILVER",
+        "ratio": 6.9,
         "position": 5,
         "is_mvp": false
       }
@@ -832,319 +132,65 @@
     "enemy_team": []
   },
   {
-    "result": "DEFEAT",
-    "my_team_score": 24,
-    "adversary_team_score": 26,
-    "duration": "08:51",
+    "date": "2026-02-02T03:53:10.279Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 34,
+    "adversary_team_score": 12,
+    "duration": "18:18",
     "my_team": [
-      {
-        "nickname": "Sister.Bartoletti34",
-        "kills": 11,
-        "deaths": 3,
-        "assists": 17,
-        "gold": 9829,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 1,
-        "is_mvp": true
-      },
       {
         "nickname": "MTF7",
         "kills": 10,
-        "deaths": 10,
-        "assists": 4,
-        "gold": 18000,
-        "medal": "SILVER",
-        "ratio": 6.9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Christine_Volkman",
-        "kills": 3,
-        "deaths": 14,
-        "assists": 0,
-        "gold": 15551,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Talon_Bayer43",
-        "kills": 7,
-        "deaths": 9,
-        "assists": 18,
-        "gold": 13506,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Tanner.Lesch",
-        "kills": 11,
-        "deaths": 7,
-        "assists": 3,
-        "gold": 11772,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 31,
-    "adversary_team_score": 30,
-    "duration": "11:41",
-    "my_team": [
-      {
-        "nickname": "Samson.Kuvalis20",
-        "kills": 14,
         "deaths": 15,
-        "assists": 2,
-        "gold": 10915,
-        "medal": "SILVER",
-        "ratio": 5.6,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jacinto_Hermiston79",
-        "kills": 9,
-        "deaths": 12,
-        "assists": 17,
-        "gold": 15795,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Stephen.Lakin4",
-        "kills": 9,
-        "deaths": 11,
-        "assists": 14,
-        "gold": 11962,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Wendell.OKon",
-        "kills": 6,
-        "deaths": 7,
-        "assists": 14,
-        "gold": 17317,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 9,
-        "deaths": 4,
-        "assists": 6,
-        "gold": 13119,
-        "medal": "GOLD",
-        "ratio": 9.9,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 21,
-    "adversary_team_score": 1,
-    "duration": "26:55",
-    "my_team": [
-      {
-        "nickname": "Seamus.Sporer",
-        "kills": 3,
-        "deaths": 3,
-        "assists": 3,
-        "gold": 9180,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Colby85",
-        "kills": 22,
-        "deaths": 0,
-        "assists": 9,
-        "gold": 15846,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 23,
-        "deaths": 10,
-        "assists": 4,
-        "gold": 13905,
-        "medal": "GOLD",
-        "ratio": 12.4,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Camden.McCullough43",
-        "kills": 9,
-        "deaths": 6,
-        "assists": 15,
-        "gold": 15274,
-        "medal": "GOLD",
-        "ratio": 12.9,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Kellie.Kutch",
-        "kills": 1,
-        "deaths": 0,
-        "assists": 2,
-        "gold": 11605,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 11,
-    "adversary_team_score": 17,
-    "duration": "26:47",
-    "my_team": [
-      {
-        "nickname": "Saul.Rau",
-        "kills": 12,
-        "deaths": 5,
-        "assists": 5,
-        "gold": 14796,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 23,
-        "deaths": 8,
-        "assists": 19,
-        "gold": 9197,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Hildegard96",
-        "kills": 11,
-        "deaths": 12,
-        "assists": 20,
-        "gold": 16171,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Genoveva_DuBuque",
-        "kills": 17,
-        "deaths": 4,
-        "assists": 8,
-        "gold": 10558,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Murphy_Parker63",
-        "kills": 4,
-        "deaths": 12,
-        "assists": 4,
-        "gold": 15263,
+        "assists": 1,
+        "gold": 8758,
         "medal": "COPPER",
         "ratio": 3.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 50,
-    "adversary_team_score": 47,
-    "duration": "14:28",
-    "my_team": [
-      {
-        "nickname": "Carter_Dooley",
-        "kills": 19,
-        "deaths": 2,
-        "assists": 9,
-        "gold": 14788,
-        "medal": "GOLD",
-        "ratio": 16.3,
         "position": 1,
-        "is_mvp": true
+        "is_mvp": false
       },
       {
-        "nickname": "Cynthia_Waelchi",
-        "kills": 14,
-        "deaths": 6,
-        "assists": 14,
-        "gold": 17789,
-        "medal": "GOLD",
-        "ratio": 14.6,
+        "nickname": "Orlando36",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 4,
+        "gold": 11867,
+        "medal": "COPPER",
+        "ratio": 3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Jaylin.Armstrong",
-        "kills": 17,
-        "deaths": 11,
-        "assists": 7,
-        "gold": 9186,
-        "medal": "GOLD",
-        "ratio": 10.7,
+        "nickname": "Norbert_Shields",
+        "kills": 1,
+        "deaths": 3,
+        "assists": 0,
+        "gold": 14276,
+        "medal": "COPPER",
+        "ratio": 4.3,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Rey73",
-        "kills": 12,
-        "deaths": 8,
-        "assists": 12,
-        "gold": 13914,
+        "nickname": "Kurt.Nienow",
+        "kills": 14,
+        "deaths": 2,
+        "assists": 4,
+        "gold": 14909,
         "medal": "GOLD",
         "ratio": 12,
         "position": 4,
-        "is_mvp": false
+        "is_mvp": true
       },
       {
-        "nickname": "MTF7",
-        "kills": 7,
-        "deaths": 6,
-        "assists": 11,
-        "gold": 15006,
+        "nickname": "Enny",
+        "kills": 9,
+        "deaths": 2,
+        "assists": 9,
+        "gold": 17601,
         "medal": "GOLD",
-        "ratio": 10.3,
+        "ratio": 12,
         "position": 5,
         "is_mvp": false
       }
@@ -1152,575 +198,329 @@
     "enemy_team": []
   },
   {
-    "result": "VICTORY",
-    "my_team_score": 32,
-    "adversary_team_score": 8,
-    "duration": "30:23",
+    "date": "2026-01-30T14:58:23.257Z",
+    "group": "TRIO",
+    "result": "DEFEAT",
+    "my_team_score": 10,
+    "adversary_team_score": 18,
+    "duration": "22:05",
     "my_team": [
       {
-        "nickname": "Earnestine_Cronin70",
+        "nickname": "Alda93",
         "kills": 7,
+        "deaths": 9,
+        "assists": 9,
+        "gold": 17087,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 1,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 3,
         "deaths": 6,
-        "assists": 5,
-        "gold": 15716,
+        "assists": 4,
+        "gold": 10013,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 12,
+        "gold": 15361,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 7,
+        "gold": 13461,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Vidal70",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 9,
+        "gold": 13903,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-02T13:16:49.621Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 6,
+    "adversary_team_score": 35,
+    "duration": "12:44",
+    "my_team": [
+      {
+        "nickname": "Cody_Okuneva91",
+        "kills": 2,
+        "deaths": 12,
+        "assists": 10,
+        "gold": 9974,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Hellen_Rolfson",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 11,
+        "gold": 16082,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 6,
+        "assists": 7,
+        "gold": 17232,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Bernard10",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 17,
+        "gold": 9251,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 4,
+        "deaths": 1,
+        "assists": 9,
+        "gold": 12418,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-31T12:32:47.966Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 12,
+    "adversary_team_score": 35,
+    "duration": "25:03",
+    "my_team": [
+      {
+        "nickname": "Leda.Will",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 12,
+        "gold": 11893,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 12,
+        "gold": 12319,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 13,
+        "gold": 16223,
+        "medal": "GOLD",
+        "ratio": 10.7,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Rhett_Koss61",
+        "kills": 0,
+        "deaths": 3,
+        "assists": 0,
+        "gold": 11921,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Rosetta_Langworth28",
+        "kills": 12,
+        "deaths": 8,
+        "assists": 2,
+        "gold": 15102,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T17:22:27.604Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 49,
+    "adversary_team_score": 46,
+    "duration": "12:21",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 4,
+        "deaths": 6,
+        "assists": 8,
+        "gold": 14387,
         "medal": "GOLD",
         "ratio": 7.7,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "Keven13",
-        "kills": 20,
-        "deaths": 11,
+        "nickname": "Ryp_God",
+        "kills": 15,
+        "deaths": 10,
         "assists": 2,
-        "gold": 15413,
+        "gold": 11369,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Audrey_Kutch",
+        "kills": 17,
+        "deaths": 11,
+        "assists": 5,
+        "gold": 16096,
         "medal": "GOLD",
         "ratio": 9.9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 15,
-        "deaths": 14,
-        "assists": 7,
-        "gold": 12316,
-        "medal": "GOLD",
-        "ratio": 8.6,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Dorris_Kling92",
-        "kills": 14,
-        "deaths": 7,
-        "assists": 18,
-        "gold": 11586,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 4,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Yazmin80",
-        "kills": 19,
-        "deaths": 2,
-        "assists": 4,
-        "gold": 16473,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 41,
-    "adversary_team_score": 27,
-    "duration": "12:32",
-    "my_team": [
-      {
-        "nickname": "Gianni.Johnson-Bayer",
-        "kills": 22,
-        "deaths": 5,
-        "assists": 16,
-        "gold": 12904,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Marge35",
-        "kills": 14,
-        "deaths": 3,
-        "assists": 9,
-        "gold": 8366,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Georgianna32",
-        "kills": 9,
-        "deaths": 3,
+        "nickname": "Mae_Beer74",
+        "kills": 5,
+        "deaths": 9,
         "assists": 13,
-        "gold": 15528,
+        "gold": 13039,
         "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 10,
-        "deaths": 11,
-        "assists": 11,
-        "gold": 14263,
-        "medal": "GOLD",
-        "ratio": 9.4,
+        "ratio": 9,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Elva.Willms47",
-        "kills": 15,
-        "deaths": 2,
-        "assists": 9,
-        "gold": 12471,
+        "nickname": "Cristobal_Welch47",
+        "kills": 8,
+        "deaths": 7,
+        "assists": 17,
+        "gold": 8339,
         "medal": "GOLD",
-        "ratio": 14.6,
+        "ratio": 12.9,
         "position": 5,
-        "is_mvp": false
+        "is_mvp": true
       }
     ],
     "enemy_team": []
   },
   {
-    "result": "DEFEAT",
-    "my_team_score": 14,
-    "adversary_team_score": 14,
-    "duration": "23:13",
+    "date": "2026-01-30T15:03:06.907Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 27,
+    "adversary_team_score": 12,
+    "duration": "22:17",
     "my_team": [
       {
-        "nickname": "Angus7",
-        "kills": 15,
-        "deaths": 13,
-        "assists": 2,
-        "gold": 16241,
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 5,
+        "gold": 12855,
         "medal": "SILVER",
-        "ratio": 6.9,
+        "ratio": 6.4,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "Garret98",
-        "kills": 13,
-        "deaths": 15,
-        "assists": 7,
-        "gold": 9088,
+        "nickname": "Alexane.Dicki",
+        "kills": 5,
+        "deaths": 2,
+        "assists": 2,
+        "gold": 15669,
         "medal": "SILVER",
         "ratio": 7.3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Wilford51",
-        "kills": 5,
-        "deaths": 12,
-        "assists": 14,
-        "gold": 10275,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Enrico.Parker",
-        "kills": 7,
-        "deaths": 6,
-        "assists": 9,
-        "gold": 13414,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 11,
-        "deaths": 10,
-        "assists": 12,
-        "gold": 9514,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 15,
-    "adversary_team_score": 27,
-    "duration": "18:44",
-    "my_team": [
-      {
-        "nickname": "Kaelyn38",
-        "kills": 8,
-        "deaths": 7,
-        "assists": 9,
-        "gold": 15877,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Brendon84",
-        "kills": 8,
-        "deaths": 11,
-        "assists": 10,
-        "gold": 9156,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Roger_Tremblay93",
-        "kills": 11,
-        "deaths": 10,
-        "assists": 11,
-        "gold": 11898,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 6,
-        "assists": 14,
-        "gold": 11433,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Johnathon.Pfeffer51",
-        "kills": 19,
-        "deaths": 7,
-        "assists": 5,
-        "gold": 13826,
-        "medal": "GOLD",
-        "ratio": 12.4,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 33,
-    "adversary_team_score": 48,
-    "duration": "19:32",
-    "my_team": [
-      {
-        "nickname": "Lesley.Labadie74",
-        "kills": 20,
-        "deaths": 11,
-        "assists": 7,
-        "gold": 15725,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Charlene51",
-        "kills": 14,
-        "deaths": 12,
-        "assists": 0,
-        "gold": 12710,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Marco2",
-        "kills": 9,
-        "deaths": 0,
-        "assists": 11,
-        "gold": 11264,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 19,
-        "deaths": 7,
-        "assists": 9,
-        "gold": 9089,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Freida.Ebert",
-        "kills": 20,
-        "deaths": 7,
-        "assists": 19,
-        "gold": 17618,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 32,
-    "adversary_team_score": 21,
-    "duration": "10:58",
-    "my_team": [
-      {
-        "nickname": "Aubree53",
-        "kills": 17,
-        "deaths": 1,
-        "assists": 12,
-        "gold": 8331,
-        "medal": "GOLD",
-        "ratio": 17.1,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Melissa10",
-        "kills": 16,
-        "deaths": 11,
-        "assists": 8,
-        "gold": 13132,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Pearl.Franecki58",
-        "kills": 22,
-        "deaths": 1,
-        "assists": 8,
-        "gold": 15071,
-        "medal": "GOLD",
-        "ratio": 17.6,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Emile85",
-        "kills": 8,
-        "deaths": 4,
-        "assists": 20,
-        "gold": 15051,
-        "medal": "GOLD",
-        "ratio": 15.4,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
+        "nickname": "Jamar_Boyer",
         "kills": 2,
-        "deaths": 3,
-        "assists": 4,
-        "gold": 8580,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 4,
-    "adversary_team_score": 25,
-    "duration": "18:03",
-    "my_team": [
-      {
-        "nickname": "Louvenia93",
-        "kills": 24,
-        "deaths": 4,
-        "assists": 17,
-        "gold": 15152,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Marilou_Haag",
-        "kills": 19,
-        "deaths": 1,
-        "assists": 16,
-        "gold": 12970,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Cary_Brekke56",
-        "kills": 1,
-        "deaths": 5,
+        "deaths": 10,
         "assists": 6,
-        "gold": 10969,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Rosario.Orn33",
-        "kills": 4,
-        "deaths": 6,
-        "assists": 11,
-        "gold": 10382,
-        "medal": "GOLD",
-        "ratio": 9,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 16,
-        "deaths": 13,
-        "assists": 13,
-        "gold": 10913,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 41,
-    "adversary_team_score": 38,
-    "duration": "12:05",
-    "my_team": [
-      {
-        "nickname": "Deshawn38",
-        "kills": 23,
-        "deaths": 2,
-        "assists": 15,
-        "gold": 14759,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 16,
-        "deaths": 8,
-        "assists": 10,
-        "gold": 15303,
-        "medal": "GOLD",
-        "ratio": 12.9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Justina21",
-        "kills": 19,
-        "deaths": 7,
-        "assists": 15,
-        "gold": 10906,
-        "medal": "GOLD",
-        "ratio": 16.7,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "May.Ortiz15",
-        "kills": 18,
-        "deaths": 3,
-        "assists": 0,
-        "gold": 14337,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Gaston.Jast15",
-        "kills": 10,
-        "deaths": 2,
-        "assists": 6,
-        "gold": 13339,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 17,
-    "adversary_team_score": 48,
-    "duration": "21:22",
-    "my_team": [
-      {
-        "nickname": "Adelbert.Breitenberg18",
-        "kills": 3,
-        "deaths": 15,
-        "assists": 10,
-        "gold": 14846,
+        "gold": 12918,
         "medal": "COPPER",
         "ratio": 4.3,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Arvid_Sipes97",
-        "kills": 12,
-        "deaths": 4,
-        "assists": 6,
-        "gold": 14082,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Cleveland_Klein",
-        "kills": 14,
-        "deaths": 10,
-        "assists": 10,
-        "gold": 10882,
-        "medal": "GOLD",
-        "ratio": 11.1,
         "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Thea.Spencer50",
+        "kills": 7,
+        "deaths": 3,
+        "assists": 19,
+        "gold": 10105,
+        "medal": "GOLD",
+        "ratio": 15,
+        "position": 4,
         "is_mvp": true
       },
       {
-        "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 5,
-        "assists": 7,
-        "gold": 13198,
-        "medal": "GOLD",
-        "ratio": 8.1,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Holly.Fadel",
+        "nickname": "Enny",
         "kills": 13,
-        "deaths": 15,
+        "deaths": 7,
         "assists": 15,
-        "gold": 17784,
+        "gold": 8581,
         "medal": "GOLD",
-        "ratio": 10.7,
+        "ratio": 14.1,
         "position": 5,
         "is_mvp": false
       }
@@ -1728,63 +528,65 @@
     "enemy_team": []
   },
   {
+    "date": "2026-01-30T04:44:04.178Z",
+    "group": "TRIO",
     "result": "DEFEAT",
-    "my_team_score": 17,
-    "adversary_team_score": 28,
-    "duration": "12:11",
+    "my_team_score": 31,
+    "adversary_team_score": 37,
+    "duration": "11:43",
     "my_team": [
       {
-        "nickname": "Paolo30",
-        "kills": 19,
-        "deaths": 5,
-        "assists": 11,
-        "gold": 14495,
+        "nickname": "Betsy.Douglas",
+        "kills": 7,
+        "deaths": 1,
+        "assists": 5,
+        "gold": 14895,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 14,
+        "deaths": 13,
+        "assists": 15,
+        "gold": 16345,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Arianna35",
+        "kills": 10,
+        "deaths": 0,
+        "assists": 15,
+        "gold": 13282,
         "medal": "GOLD",
         "ratio": 15.9,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Hettie_Cronin",
-        "kills": 12,
-        "deaths": 5,
-        "assists": 2,
-        "gold": 17241,
-        "medal": "GOLD",
-        "ratio": 9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 21,
-        "deaths": 0,
-        "assists": 17,
-        "gold": 13314,
-        "medal": "GOLD",
-        "ratio": 18,
         "position": 3,
         "is_mvp": true
       },
       {
-        "nickname": "Leola.Prosacco88",
-        "kills": 9,
+        "nickname": "Enny",
+        "kills": 0,
         "deaths": 7,
-        "assists": 8,
-        "gold": 10043,
+        "assists": 20,
+        "gold": 14330,
         "medal": "GOLD",
-        "ratio": 9.4,
+        "ratio": 10.7,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Joseph61",
-        "kills": 6,
-        "deaths": 5,
-        "assists": 2,
-        "gold": 15031,
-        "medal": "SILVER",
-        "ratio": 6.4,
+        "nickname": "Ryp_God",
+        "kills": 0,
+        "deaths": 1,
+        "assists": 0,
+        "gold": 10587,
+        "medal": "COPPER",
+        "ratio": 4.7,
         "position": 5,
         "is_mvp": false
       }
@@ -1792,509 +594,63 @@
     "enemy_team": []
   },
   {
-    "result": "VICTORY",
-    "my_team_score": 37,
-    "adversary_team_score": 13,
-    "duration": "19:59",
+    "date": "2026-01-29T14:30:10.452Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 32,
+    "adversary_team_score": 37,
+    "duration": "08:16",
     "my_team": [
       {
-        "nickname": "Gilberto_OKon49",
-        "kills": 12,
-        "deaths": 13,
-        "assists": 8,
-        "gold": 11266,
+        "nickname": "Noble_Witting",
+        "kills": 15,
+        "deaths": 11,
+        "assists": 12,
+        "gold": 14500,
         "medal": "GOLD",
-        "ratio": 8.1,
+        "ratio": 12,
         "position": 1,
-        "is_mvp": false
+        "is_mvp": true
       },
       {
         "nickname": "MTF7",
         "kills": 4,
         "deaths": 14,
-        "assists": 3,
-        "gold": 12849,
+        "assists": 1,
+        "gold": 8804,
         "medal": "COPPER",
         "ratio": 3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Kennedi17",
-        "kills": 9,
-        "deaths": 5,
-        "assists": 19,
-        "gold": 14097,
-        "medal": "GOLD",
-        "ratio": 15,
+        "nickname": "Lily86",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 1,
+        "gold": 16369,
+        "medal": "COPPER",
+        "ratio": 4.7,
         "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Darrin_Sporer",
-        "kills": 11,
-        "deaths": 12,
-        "assists": 9,
-        "gold": 9885,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Lydia37",
-        "kills": 7,
+        "nickname": "Bobby.Bernhard98",
+        "kills": 8,
         "deaths": 11,
-        "assists": 5,
-        "gold": 15141,
-        "medal": "SILVER",
-        "ratio": 5.6,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 12,
-    "adversary_team_score": 20,
-    "duration": "23:57",
-    "my_team": [
-      {
-        "nickname": "Brendon_Ritchie-Kilback",
-        "kills": 15,
-        "deaths": 1,
-        "assists": 3,
-        "gold": 12061,
+        "assists": 12,
+        "gold": 15920,
         "medal": "GOLD",
-        "ratio": 12.4,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Ruthie77",
-        "kills": 11,
-        "deaths": 0,
-        "assists": 0,
-        "gold": 9529,
-        "medal": "GOLD",
-        "ratio": 9.9,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 4,
-        "deaths": 12,
-        "assists": 11,
-        "gold": 15907,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Destiney11",
-        "kills": 13,
-        "deaths": 4,
-        "assists": 20,
-        "gold": 10231,
-        "medal": "GOLD",
-        "ratio": 17.6,
+        "ratio": 9,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Nat_Cartwright89",
-        "kills": 21,
-        "deaths": 4,
-        "assists": 14,
-        "gold": 14789,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 21,
-    "adversary_team_score": 35,
-    "duration": "17:20",
-    "my_team": [
-      {
-        "nickname": "Shaun_Connelly",
-        "kills": 3,
-        "deaths": 1,
-        "assists": 17,
-        "gold": 14646,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Deion.Bayer73",
+        "nickname": "Verna_Strosin98",
         "kills": 5,
-        "deaths": 8,
-        "assists": 17,
-        "gold": 8915,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jamison_Batz61",
-        "kills": 9,
-        "deaths": 1,
-        "assists": 8,
-        "gold": 16155,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Connor.Torphy56",
-        "kills": 10,
-        "deaths": 11,
-        "assists": 17,
-        "gold": 10287,
-        "medal": "GOLD",
-        "ratio": 12,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 9,
         "deaths": 7,
         "assists": 6,
-        "gold": 16444,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 5,
-    "adversary_team_score": 24,
-    "duration": "20:18",
-    "my_team": [
-      {
-        "nickname": "Cleta_Skiles",
-        "kills": 20,
-        "deaths": 7,
-        "assists": 12,
-        "gold": 11791,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 1,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Deshaun.Rempel12",
-        "kills": 5,
-        "deaths": 12,
-        "assists": 5,
-        "gold": 11770,
-        "medal": "COPPER",
-        "ratio": 4.3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 14,
-        "deaths": 12,
-        "assists": 20,
-        "gold": 15436,
-        "medal": "GOLD",
-        "ratio": 14.6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jovany16",
-        "kills": 5,
-        "deaths": 13,
-        "assists": 20,
-        "gold": 8579,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Wilburn.Quigley89",
-        "kills": 1,
-        "deaths": 9,
-        "assists": 14,
-        "gold": 12379,
-        "medal": "GOLD",
-        "ratio": 7.7,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 2,
-    "adversary_team_score": 10,
-    "duration": "21:08",
-    "my_team": [
-      {
-        "nickname": "MTF7",
-        "kills": 20,
-        "deaths": 2,
-        "assists": 1,
-        "gold": 14813,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Hyman.Haag29",
-        "kills": 10,
-        "deaths": 4,
-        "assists": 2,
-        "gold": 17351,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Seth_Brown",
-        "kills": 20,
-        "deaths": 6,
-        "assists": 19,
-        "gold": 14977,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Leland71",
-        "kills": 24,
-        "deaths": 14,
-        "assists": 9,
-        "gold": 17028,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Urban.Nader14",
-        "kills": 16,
-        "deaths": 14,
-        "assists": 13,
-        "gold": 13612,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 18,
-    "adversary_team_score": 20,
-    "duration": "14:58",
-    "my_team": [
-      {
-        "nickname": "MTF7",
-        "kills": 13,
-        "deaths": 10,
-        "assists": 18,
-        "gold": 13847,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Aniya43",
-        "kills": 13,
-        "deaths": 1,
-        "assists": 15,
-        "gold": 12777,
-        "medal": "GOLD",
-        "ratio": 16.7,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Arnoldo.Raynor",
-        "kills": 9,
-        "deaths": 3,
-        "assists": 0,
-        "gold": 14410,
-        "medal": "GOLD",
-        "ratio": 7.7,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Junius.Abshire",
-        "kills": 13,
-        "deaths": 10,
-        "assists": 9,
-        "gold": 13977,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Layla_OConnell46",
-        "kills": 19,
-        "deaths": 15,
-        "assists": 13,
-        "gold": 13897,
-        "medal": "GOLD",
-        "ratio": 12.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 8,
-    "adversary_team_score": 13,
-    "duration": "11:20",
-    "my_team": [
-      {
-        "nickname": "Noel2",
-        "kills": 7,
-        "deaths": 5,
-        "assists": 15,
-        "gold": 9975,
-        "medal": "GOLD",
-        "ratio": 12.4,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Marley_Bahringer",
-        "kills": 16,
-        "deaths": 12,
-        "assists": 2,
-        "gold": 17867,
-        "medal": "GOLD",
-        "ratio": 7.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Tyrique.Dicki",
-        "kills": 19,
-        "deaths": 1,
-        "assists": 10,
-        "gold": 13644,
-        "medal": "GOLD",
-        "ratio": 17.1,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 8,
-        "deaths": 0,
-        "assists": 20,
-        "gold": 9108,
-        "medal": "GOLD",
-        "ratio": 17.1,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Roslyn_Koepp",
-        "kills": 19,
-        "deaths": 2,
-        "assists": 14,
-        "gold": 17591,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 39,
-    "adversary_team_score": 38,
-    "duration": "30:48",
-    "my_team": [
-      {
-        "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 0,
-        "assists": 1,
-        "gold": 11692,
-        "medal": "GOLD",
-        "ratio": 7.7,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Alexandrine68",
-        "kills": 3,
-        "deaths": 5,
-        "assists": 4,
-        "gold": 12054,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Sophia_Hegmann",
-        "kills": 18,
-        "deaths": 3,
-        "assists": 13,
-        "gold": 12912,
-        "medal": "GOLD",
-        "ratio": 17.1,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Stewart.Hoppe68",
-        "kills": 24,
-        "deaths": 13,
-        "assists": 9,
-        "gold": 12980,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Lisandro_Wolff",
-        "kills": 0,
-        "deaths": 4,
-        "assists": 8,
-        "gold": 17581,
+        "gold": 10079,
         "medal": "SILVER",
         "ratio": 6.9,
         "position": 5,
@@ -2304,63 +660,1649 @@
     "enemy_team": []
   },
   {
+    "date": "2026-02-03T16:44:20.488Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 39,
+    "adversary_team_score": 45,
+    "duration": "13:35",
+    "my_team": [
+      {
+        "nickname": "Mohammed77",
+        "kills": 4,
+        "deaths": 14,
+        "assists": 7,
+        "gold": 8895,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Morton_Wintheiser",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 3,
+        "gold": 10899,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 9,
+        "deaths": 8,
+        "assists": 2,
+        "gold": 10043,
+        "medal": "SILVER",
+        "ratio": 6.4,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Amaya88",
+        "kills": 19,
+        "deaths": 11,
+        "assists": 3,
+        "gold": 9302,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 7,
+        "deaths": 11,
+        "assists": 16,
+        "gold": 14671,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T20:09:40.810Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 9,
+    "adversary_team_score": 37,
+    "duration": "10:35",
+    "my_team": [
+      {
+        "nickname": "Cynthia_Kuhlman",
+        "kills": 0,
+        "deaths": 15,
+        "assists": 6,
+        "gold": 12585,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 9,
+        "deaths": 12,
+        "assists": 15,
+        "gold": 12903,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Wellington64",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 1,
+        "gold": 9008,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 13,
+        "gold": 9423,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Deshaun.Trantow-Bradtke",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 16,
+        "gold": 16679,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T05:28:10.699Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 26,
+    "adversary_team_score": 33,
+    "duration": "20:46",
+    "my_team": [
+      {
+        "nickname": "Ryp_God",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 6,
+        "gold": 8109,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Briana.Wyman",
+        "kills": 0,
+        "deaths": 13,
+        "assists": 12,
+        "gold": 14124,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Norris.Shields",
+        "kills": 15,
+        "deaths": 7,
+        "assists": 12,
+        "gold": 16974,
+        "medal": "GOLD",
+        "ratio": 13.7,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 4,
+        "gold": 11905,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Kian.Kemmer87",
+        "kills": 11,
+        "deaths": 5,
+        "assists": 10,
+        "gold": 8814,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T06:28:26.550Z",
+    "group": "TRIO",
+    "result": "DEFEAT",
+    "my_team_score": 17,
+    "adversary_team_score": 33,
+    "duration": "16:42",
+    "my_team": [
+      {
+        "nickname": "Ryp_God",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 16,
+        "gold": 10749,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Marcelino.Larkin87",
+        "kills": 1,
+        "deaths": 4,
+        "assists": 19,
+        "gold": 13927,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 14,
+        "gold": 8895,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Karina.Considine18",
+        "kills": 4,
+        "deaths": 0,
+        "assists": 6,
+        "gold": 14150,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 12,
+        "deaths": 4,
+        "assists": 4,
+        "gold": 8361,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T16:44:53.334Z",
+    "group": "DUO",
     "result": "VICTORY",
-    "my_team_score": 33,
-    "adversary_team_score": 13,
+    "my_team_score": 22,
+    "adversary_team_score": 12,
+    "duration": "19:17",
+    "my_team": [
+      {
+        "nickname": "Donald13",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 14,
+        "gold": 13381,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Addie27",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 18,
+        "gold": 16391,
+        "medal": "GOLD",
+        "ratio": 12.9,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 14,
+        "deaths": 1,
+        "assists": 6,
+        "gold": 11149,
+        "medal": "GOLD",
+        "ratio": 13.3,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Jackson_Kunze19",
+        "kills": 3,
+        "deaths": 5,
+        "assists": 10,
+        "gold": 14497,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 5,
+        "deaths": 5,
+        "assists": 18,
+        "gold": 17264,
+        "medal": "GOLD",
+        "ratio": 12.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T10:55:03.603Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 23,
+    "adversary_team_score": 36,
+    "duration": "27:16",
+    "my_team": [
+      {
+        "nickname": "Jaron28",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 15,
+        "gold": 15619,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 4,
+        "gold": 16039,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 10,
+        "deaths": 1,
+        "assists": 7,
+        "gold": 8740,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Benjamin_Hansen",
+        "kills": 0,
+        "deaths": 4,
+        "assists": 0,
+        "gold": 17732,
+        "medal": "COPPER",
+        "ratio": 3.4,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Mario_Mills",
+        "kills": 13,
+        "deaths": 13,
+        "assists": 6,
+        "gold": 11283,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T12:36:40.599Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 20,
+    "adversary_team_score": 19,
+    "duration": "11:41",
+    "my_team": [
+      {
+        "nickname": "Isaias37",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 17,
+        "gold": 11728,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 9,
+        "deaths": 1,
+        "assists": 7,
+        "gold": 9884,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Lelah_Considine",
+        "kills": 7,
+        "deaths": 2,
+        "assists": 4,
+        "gold": 11489,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Garland31",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 5,
+        "gold": 15403,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 4,
+        "deaths": 13,
+        "assists": 3,
+        "gold": 14741,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T09:13:16.536Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 17,
+    "adversary_team_score": 29,
+    "duration": "15:36",
+    "my_team": [
+      {
+        "nickname": "Lon.Witting",
+        "kills": 0,
+        "deaths": 15,
+        "assists": 5,
+        "gold": 12679,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 11,
+        "deaths": 4,
+        "assists": 8,
+        "gold": 13947,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Mellie.Leuschke10",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 8,
+        "gold": 10206,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Adelbert.Schneider84",
+        "kills": 6,
+        "deaths": 2,
+        "assists": 2,
+        "gold": 11837,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Karelle.Howe",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 17,
+        "gold": 13800,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T16:31:45.768Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 0,
+    "adversary_team_score": 48,
+    "duration": "15:05",
+    "my_team": [
+      {
+        "nickname": "Allison.Reichert",
+        "kills": 0,
+        "deaths": 13,
+        "assists": 7,
+        "gold": 9847,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Joelle81",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 4,
+        "gold": 14489,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 0,
+        "deaths": 13,
+        "assists": 2,
+        "gold": 9360,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Georgianna.Schneider",
+        "kills": 0,
+        "deaths": 13,
+        "assists": 10,
+        "gold": 15091,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 7,
+        "gold": 10565,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-02T14:04:20.585Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 23,
+    "adversary_team_score": 30,
+    "duration": "15:35",
+    "my_team": [
+      {
+        "nickname": "Toby_Skiles47",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 18,
+        "gold": 16903,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Damian.Homenick",
+        "kills": 14,
+        "deaths": 9,
+        "assists": 16,
+        "gold": 14139,
+        "medal": "GOLD",
+        "ratio": 14.1,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 9,
+        "deaths": 13,
+        "assists": 20,
+        "gold": 10370,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Jade8",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 8,
+        "gold": 13788,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 10,
+        "gold": 10951,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-31T23:15:10.931Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 4,
+    "adversary_team_score": 19,
+    "duration": "08:38",
+    "my_team": [
+      {
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 4,
+        "assists": 11,
+        "gold": 13396,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Pat28",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 5,
+        "gold": 11817,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 6,
+        "assists": 20,
+        "gold": 16175,
+        "medal": "GOLD",
+        "ratio": 11.1,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Francesco.Rath",
+        "kills": 4,
+        "deaths": 13,
+        "assists": 1,
+        "gold": 9748,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Bradly.Gibson42",
+        "kills": 0,
+        "deaths": 15,
+        "assists": 19,
+        "gold": 17020,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T14:50:35.415Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 48,
+    "adversary_team_score": 35,
+    "duration": "09:31",
+    "my_team": [
+      {
+        "nickname": "Rosina.Jacobson",
+        "kills": 20,
+        "deaths": 2,
+        "assists": 9,
+        "gold": 11053,
+        "medal": "GOLD",
+        "ratio": 16.7,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 3,
+        "deaths": 1,
+        "assists": 1,
+        "gold": 12138,
+        "medal": "SILVER",
+        "ratio": 6.4,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 8,
+        "deaths": 11,
+        "assists": 16,
+        "gold": 11635,
+        "medal": "GOLD",
+        "ratio": 10.7,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Korbin_Prohaska",
+        "kills": 10,
+        "deaths": 2,
+        "assists": 20,
+        "gold": 13543,
+        "medal": "GOLD",
+        "ratio": 17.1,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Monty58",
+        "kills": 7,
+        "deaths": 0,
+        "assists": 4,
+        "gold": 11409,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T06:02:36.463Z",
+    "group": "TRIO",
+    "result": "VICTORY",
+    "my_team_score": 35,
+    "adversary_team_score": 4,
+    "duration": "13:36",
+    "my_team": [
+      {
+        "nickname": "Ryp_God",
+        "kills": 16,
+        "deaths": 13,
+        "assists": 2,
+        "gold": 12517,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 5,
+        "deaths": 7,
+        "assists": 3,
+        "gold": 17050,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Mittie_Smith",
+        "kills": 5,
+        "deaths": 7,
+        "assists": 5,
+        "gold": 16733,
+        "medal": "SILVER",
+        "ratio": 6.4,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Bernice_Flatley23",
+        "kills": 7,
+        "deaths": 3,
+        "assists": 13,
+        "gold": 17889,
+        "medal": "GOLD",
+        "ratio": 12.4,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 2,
+        "deaths": 13,
+        "assists": 20,
+        "gold": 13411,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T02:14:30.506Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 0,
+    "adversary_team_score": 29,
+    "duration": "29:08",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 8,
+        "assists": 3,
+        "gold": 8269,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Buck81",
+        "kills": 0,
+        "deaths": 15,
+        "assists": 12,
+        "gold": 9839,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Darwin71",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 0,
+        "gold": 13499,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Wilfred.Koch18",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 16,
+        "gold": 11323,
+        "medal": "GOLD",
+        "ratio": 11.1,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Willie_Pfannerstill",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 5,
+        "gold": 17601,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T23:54:24.635Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 0,
+    "adversary_team_score": 36,
+    "duration": "08:07",
+    "my_team": [
+      {
+        "nickname": "Rubie.Marks",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 12,
+        "gold": 17139,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Camille_Nienow",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 9,
+        "gold": 9504,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Kiley.Reichel33",
+        "kills": 0,
+        "deaths": 15,
+        "assists": 8,
+        "gold": 12911,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Albina.Langworth76",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 14,
+        "gold": 11080,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 16,
+        "gold": 11061,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-31T17:14:01.296Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 41,
+    "adversary_team_score": 12,
+    "duration": "29:31",
+    "my_team": [
+      {
+        "nickname": "Hilbert7",
+        "kills": 9,
+        "deaths": 9,
+        "assists": 0,
+        "gold": 9623,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Dale_Graham50",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 18,
+        "gold": 12894,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ashley.Boyer26",
+        "kills": 18,
+        "deaths": 5,
+        "assists": 18,
+        "gold": 16197,
+        "medal": "GOLD",
+        "ratio": 18,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Enny",
+        "kills": 14,
+        "deaths": 15,
+        "assists": 16,
+        "gold": 14828,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 20,
+        "gold": 8688,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T12:40:48.272Z",
+    "group": "TRIO",
+    "result": "DEFEAT",
+    "my_team_score": 8,
+    "adversary_team_score": 27,
+    "duration": "16:12",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 9,
+        "gold": 12553,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 6,
+        "deaths": 13,
+        "assists": 10,
+        "gold": 9237,
+        "medal": "SILVER",
+        "ratio": 6.4,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 2,
+        "deaths": 10,
+        "assists": 0,
+        "gold": 9330,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Kathryne_Hand",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 18,
+        "gold": 14539,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Enos.Kunze64",
+        "kills": 0,
+        "deaths": 1,
+        "assists": 6,
+        "gold": 8312,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T12:07:51.916Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 24,
+    "adversary_team_score": 47,
+    "duration": "10:56",
+    "my_team": [
+      {
+        "nickname": "Ines.Romaguera28",
+        "kills": 11,
+        "deaths": 0,
+        "assists": 6,
+        "gold": 16030,
+        "medal": "GOLD",
+        "ratio": 12.4,
+        "position": 1,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Kadin.Schoen30",
+        "kills": 10,
+        "deaths": 15,
+        "assists": 3,
+        "gold": 9641,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 19,
+        "gold": 10654,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Amely3",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 13,
+        "gold": 15124,
+        "medal": "GOLD",
+        "ratio": 10.7,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Nelda.Nitzsche",
+        "kills": 3,
+        "deaths": 11,
+        "assists": 11,
+        "gold": 16548,
+        "medal": "SILVER",
+        "ratio": 6.4,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-30T06:45:06.260Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 28,
+    "adversary_team_score": 8,
+    "duration": "15:53",
+    "my_team": [
+      {
+        "nickname": "Valerie_Ziemann7",
+        "kills": 0,
+        "deaths": 1,
+        "assists": 9,
+        "gold": 8365,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 16,
+        "gold": 16167,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Savion1",
+        "kills": 12,
+        "deaths": 11,
+        "assists": 5,
+        "gold": 16030,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Kian.Dietrich75",
+        "kills": 12,
+        "deaths": 9,
+        "assists": 8,
+        "gold": 13957,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Eugene62",
+        "kills": 4,
+        "deaths": 8,
+        "assists": 3,
+        "gold": 15354,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-02T21:02:52.357Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 18,
+    "adversary_team_score": 44,
+    "duration": "29:23",
+    "my_team": [
+      {
+        "nickname": "Enny",
+        "kills": 7,
+        "deaths": 13,
+        "assists": 1,
+        "gold": 15994,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 4,
+        "deaths": 10,
+        "assists": 17,
+        "gold": 8922,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Durward.Becker-MacGyver",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 4,
+        "gold": 14116,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ruth.Konopelski",
+        "kills": 6,
+        "deaths": 8,
+        "assists": 6,
+        "gold": 12298,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Genoveva_Runolfsson0",
+        "kills": 1,
+        "deaths": 6,
+        "assists": 0,
+        "gold": 15588,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T10:10:17.217Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 16,
+    "adversary_team_score": 41,
     "duration": "15:27",
     "my_team": [
       {
-        "nickname": "Daphnee62",
-        "kills": 3,
-        "deaths": 6,
-        "assists": 6,
-        "gold": 13693,
-        "medal": "SILVER",
-        "ratio": 6.4,
+        "nickname": "Elva79",
+        "kills": 0,
+        "deaths": 1,
+        "assists": 0,
+        "gold": 16869,
+        "medal": "COPPER",
+        "ratio": 4.7,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "MTF7",
-        "kills": 4,
-        "deaths": 14,
-        "assists": 18,
-        "gold": 9019,
-        "medal": "GOLD",
-        "ratio": 8.6,
+        "nickname": "Ara.Cremin",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 14,
+        "gold": 15918,
+        "medal": "SILVER",
+        "ratio": 7.3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Cali.Pouros",
-        "kills": 9,
+        "nickname": "Devante_Corwin",
+        "kills": 15,
+        "deaths": 10,
+        "assists": 7,
+        "gold": 11988,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Cleta_Prohaska36",
+        "kills": 1,
+        "deaths": 7,
+        "assists": 6,
+        "gold": 15802,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 8,
+        "gold": 10767,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T16:19:09.176Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 33,
+    "adversary_team_score": 11,
+    "duration": "28:32",
+    "my_team": [
+      {
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 4,
+        "assists": 14,
+        "gold": 12501,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Mike_Schmidt",
+        "kills": 11,
         "deaths": 8,
+        "assists": 3,
+        "gold": 9331,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 13,
+        "deaths": 3,
+        "assists": 18,
+        "gold": 17233,
+        "medal": "GOLD",
+        "ratio": 17.1,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Rahsaan_Bogan",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 9,
+        "gold": 13313,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Fred_Barton19",
+        "kills": 9,
+        "deaths": 5,
+        "assists": 1,
+        "gold": 8753,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-31T15:13:35.866Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 30,
+    "adversary_team_score": 12,
+    "duration": "12:00",
+    "my_team": [
+      {
+        "nickname": "Ethelyn_Runolfsdottir97",
+        "kills": 6,
+        "deaths": 14,
+        "assists": 18,
+        "gold": 13818,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Nikita74",
+        "kills": 2,
+        "deaths": 8,
+        "assists": 18,
+        "gold": 9929,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 9,
+        "deaths": 4,
+        "assists": 19,
+        "gold": 9423,
+        "medal": "GOLD",
+        "ratio": 15.4,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Monty.Cormier59",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 13,
+        "gold": 16022,
+        "medal": "GOLD",
+        "ratio": 10.7,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 13,
+        "deaths": 12,
+        "assists": 7,
+        "gold": 16727,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T07:48:14.984Z",
+    "group": "TRIO",
+    "result": "VICTORY",
+    "my_team_score": 50,
+    "adversary_team_score": 39,
+    "duration": "14:32",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 8,
+        "deaths": 8,
+        "assists": 16,
+        "gold": 11499,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Enny",
+        "kills": 5,
+        "deaths": 3,
+        "assists": 19,
+        "gold": 17823,
+        "medal": "GOLD",
+        "ratio": 14.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ken.Torp17",
+        "kills": 7,
+        "deaths": 11,
+        "assists": 13,
+        "gold": 11587,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Arlene94",
+        "kills": 9,
+        "deaths": 7,
+        "assists": 12,
+        "gold": 10220,
+        "medal": "GOLD",
+        "ratio": 11.1,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 21,
+        "deaths": 5,
         "assists": 10,
-        "gold": 16134,
+        "gold": 11714,
+        "medal": "GOLD",
+        "ratio": 16.3,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T11:01:20.055Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 35,
+    "adversary_team_score": 29,
+    "duration": "25:26",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 13,
+        "deaths": 8,
+        "assists": 12,
+        "gold": 10342,
+        "medal": "GOLD",
+        "ratio": 12.4,
+        "position": 1,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Reina4",
+        "kills": 11,
+        "deaths": 15,
+        "assists": 14,
+        "gold": 14603,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Rylee7",
+        "kills": 6,
+        "deaths": 10,
+        "assists": 15,
+        "gold": 14169,
         "medal": "GOLD",
         "ratio": 9.9,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Kamron.Bruen-Herman42",
-        "kills": 25,
+        "nickname": "Kareem.Nienow-Langosh17",
+        "kills": 5,
         "deaths": 14,
-        "assists": 3,
-        "gold": 16160,
+        "assists": 19,
+        "gold": 12956,
         "medal": "GOLD",
-        "ratio": 11.1,
+        "ratio": 9.4,
         "position": 4,
-        "is_mvp": true
+        "is_mvp": false
       },
       {
-        "nickname": "Porter.Hermann22",
-        "kills": 9,
-        "deaths": 15,
-        "assists": 6,
-        "gold": 17550,
+        "nickname": "Rosella_Schultz",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 9,
+        "gold": 8103,
         "medal": "SILVER",
-        "ratio": 5.1,
+        "ratio": 6.9,
         "position": 5,
         "is_mvp": false
       }
@@ -2368,127 +2310,461 @@
     "enemy_team": []
   },
   {
-    "result": "DEFEAT",
-    "my_team_score": 16,
-    "adversary_team_score": 29,
-    "duration": "26:43",
+    "date": "2026-02-01T11:50:16.007Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 32,
+    "adversary_team_score": 20,
+    "duration": "28:39",
     "my_team": [
       {
-        "nickname": "Lavonne_Hamill95",
-        "kills": 11,
-        "deaths": 6,
-        "assists": 3,
-        "gold": 16400,
+        "nickname": "Sasha_Cronin",
+        "kills": 19,
+        "deaths": 5,
+        "assists": 15,
+        "gold": 17711,
+        "medal": "GOLD",
+        "ratio": 17.6,
+        "position": 1,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 8,
+        "deaths": 7,
+        "assists": 4,
+        "gold": 16492,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Sabrina26",
+        "kills": 1,
+        "deaths": 2,
+        "assists": 16,
+        "gold": 12332,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Sister_Jakubowski33",
+        "kills": 0,
+        "deaths": 3,
+        "assists": 1,
+        "gold": 8757,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Otto.Grady87",
+        "kills": 4,
+        "deaths": 3,
+        "assists": 1,
+        "gold": 8701,
+        "medal": "SILVER",
+        "ratio": 6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T01:14:29.114Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 6,
+    "adversary_team_score": 4,
+    "duration": "10:27",
+    "my_team": [
+      {
+        "nickname": "Katlynn_Konopelski",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 13,
+        "gold": 10146,
         "medal": "GOLD",
         "ratio": 8.6,
         "position": 1,
         "is_mvp": false
       },
       {
+        "nickname": "Mariela.Kessler",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 20,
+        "gold": 11319,
+        "medal": "GOLD",
+        "ratio": 9.9,
+        "position": 2,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Alberta_Schulist67",
+        "kills": 3,
+        "deaths": 12,
+        "assists": 14,
+        "gold": 14113,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
         "nickname": "MTF7",
-        "kills": 8,
-        "deaths": 5,
+        "kills": 1,
+        "deaths": 13,
+        "assists": 1,
+        "gold": 11275,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Roxane11",
+        "kills": 2,
+        "deaths": 1,
+        "assists": 7,
+        "gold": 9445,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T10:23:41.707Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 30,
+    "adversary_team_score": 23,
+    "duration": "10:00",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 10,
+        "assists": 0,
+        "gold": 16194,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Kathleen.Schimmel",
+        "kills": 11,
+        "deaths": 7,
+        "assists": 6,
+        "gold": 11487,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Haleigh_Shields60",
+        "kills": 2,
+        "deaths": 3,
+        "assists": 17,
+        "gold": 9007,
+        "medal": "GOLD",
+        "ratio": 12,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Regan.Russel",
+        "kills": 1,
+        "deaths": 0,
+        "assists": 11,
+        "gold": 15363,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Baron71",
+        "kills": 16,
+        "deaths": 10,
+        "assists": 13,
+        "gold": 8851,
+        "medal": "GOLD",
+        "ratio": 13.3,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-02T04:22:48.212Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 42,
+    "adversary_team_score": 18,
+    "duration": "10:25",
+    "my_team": [
+      {
+        "nickname": "Wallace_Gutmann",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 0,
+        "gold": 10155,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Darren.Kovacek20",
+        "kills": 14,
+        "deaths": 11,
         "assists": 16,
-        "gold": 15024,
+        "gold": 8140,
         "medal": "GOLD",
         "ratio": 13.3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Joan.Bruen42",
-        "kills": 17,
-        "deaths": 5,
-        "assists": 1,
-        "gold": 15402,
+        "nickname": "Ryp_God",
+        "kills": 9,
+        "deaths": 9,
+        "assists": 8,
+        "gold": 16388,
         "medal": "GOLD",
-        "ratio": 10.7,
+        "ratio": 8.6,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Dudley29",
-        "kills": 22,
-        "deaths": 2,
-        "assists": 7,
-        "gold": 9715,
-        "medal": "GOLD",
-        "ratio": 16.7,
+        "nickname": "Emmalee_Huel",
+        "kills": 4,
+        "deaths": 8,
+        "assists": 5,
+        "gold": 16748,
+        "medal": "SILVER",
+        "ratio": 5.6,
         "position": 4,
-        "is_mvp": true
+        "is_mvp": false
       },
       {
-        "nickname": "Logan_Moen55",
-        "kills": 20,
+        "nickname": "MTF7",
+        "kills": 15,
         "deaths": 1,
-        "assists": 1,
-        "gold": 11593,
+        "assists": 14,
+        "gold": 10252,
         "medal": "GOLD",
-        "ratio": 13.7,
+        "ratio": 17.1,
         "position": 5,
-        "is_mvp": false
+        "is_mvp": true
       }
     ],
     "enemy_team": []
   },
   {
+    "date": "2026-01-29T23:40:21.454Z",
+    "group": "DUO",
     "result": "VICTORY",
-    "my_team_score": 31,
-    "adversary_team_score": 9,
-    "duration": "21:23",
+    "my_team_score": 20,
+    "adversary_team_score": 6,
+    "duration": "10:54",
     "my_team": [
       {
-        "nickname": "Ruthe64",
-        "kills": 10,
-        "deaths": 14,
-        "assists": 19,
-        "gold": 13268,
-        "medal": "GOLD",
-        "ratio": 11.6,
+        "nickname": "Enny",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 10,
+        "gold": 13267,
+        "medal": "COPPER",
+        "ratio": 4.3,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "MTF7",
-        "kills": 14,
-        "deaths": 11,
-        "assists": 0,
-        "gold": 13635,
-        "medal": "SILVER",
-        "ratio": 6.4,
+        "nickname": "Jeanette.Lakin18",
+        "kills": 3,
+        "deaths": 10,
+        "assists": 1,
+        "gold": 10097,
+        "medal": "COPPER",
+        "ratio": 3,
         "position": 2,
         "is_mvp": false
       },
       {
-        "nickname": "Chesley.Grimes",
-        "kills": 20,
-        "deaths": 14,
-        "assists": 16,
-        "gold": 16703,
+        "nickname": "MTF7",
+        "kills": 6,
+        "deaths": 4,
+        "assists": 10,
+        "gold": 15944,
         "medal": "GOLD",
-        "ratio": 14.6,
+        "ratio": 10.3,
         "position": 3,
-        "is_mvp": false
+        "is_mvp": true
       },
       {
-        "nickname": "Martina.Kovacek68",
-        "kills": 20,
-        "deaths": 8,
-        "assists": 10,
-        "gold": 16497,
-        "medal": "GOLD",
-        "ratio": 14.6,
+        "nickname": "Matilda28",
+        "kills": 3,
+        "deaths": 9,
+        "assists": 5,
+        "gold": 17658,
+        "medal": "COPPER",
+        "ratio": 4.7,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Rodger.Klein",
-        "kills": 23,
-        "deaths": 0,
-        "assists": 8,
-        "gold": 8491,
+        "nickname": "Cecil20",
+        "kills": 8,
+        "deaths": 12,
+        "assists": 5,
+        "gold": 15406,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T15:41:54.513Z",
+    "group": "DUO",
+    "result": "DEFEAT",
+    "my_team_score": 13,
+    "adversary_team_score": 31,
+    "duration": "12:03",
+    "my_team": [
+      {
+        "nickname": "Telly94",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 2,
+        "gold": 9926,
+        "medal": "SILVER",
+        "ratio": 5.1,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Columbus.Turner",
+        "kills": 1,
+        "deaths": 2,
+        "assists": 2,
+        "gold": 9716,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Ryp_God",
+        "kills": 12,
+        "deaths": 6,
+        "assists": 0,
+        "gold": 8889,
         "medal": "GOLD",
-        "ratio": 18,
+        "ratio": 7.7,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Buck_Marquardt90",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 0,
+        "gold": 10707,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 7,
+        "gold": 11239,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-03T18:47:34.592Z",
+    "group": "SOLO",
+    "result": "VICTORY",
+    "my_team_score": 36,
+    "adversary_team_score": 5,
+    "duration": "19:01",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 2,
+        "assists": 8,
+        "gold": 12284,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Andy82",
+        "kills": 17,
+        "deaths": 14,
+        "assists": 4,
+        "gold": 16486,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Adan36",
+        "kills": 6,
+        "deaths": 10,
+        "assists": 11,
+        "gold": 14420,
+        "medal": "GOLD",
+        "ratio": 8.1,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Filiberto.Labadie",
+        "kills": 3,
+        "deaths": 8,
+        "assists": 1,
+        "gold": 8588,
+        "medal": "COPPER",
+        "ratio": 3.4,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Margarette8",
+        "kills": 10,
+        "deaths": 4,
+        "assists": 9,
+        "gold": 17460,
+        "medal": "GOLD",
+        "ratio": 11.6,
         "position": 5,
         "is_mvp": true
       }
@@ -2496,383 +2772,329 @@
     "enemy_team": []
   },
   {
+    "date": "2026-02-01T14:20:25.272Z",
+    "group": "TRIO",
+    "result": "VICTORY",
+    "my_team_score": 42,
+    "adversary_team_score": 13,
+    "duration": "22:54",
+    "my_team": [
+      {
+        "nickname": "Ryp_God",
+        "kills": 1,
+        "deaths": 10,
+        "assists": 3,
+        "gold": 9194,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Nicholas.Adams",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 5,
+        "gold": 16358,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 13,
+        "deaths": 1,
+        "assists": 14,
+        "gold": 15062,
+        "medal": "GOLD",
+        "ratio": 16.3,
+        "position": 3,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Enny",
+        "kills": 14,
+        "deaths": 11,
+        "assists": 7,
+        "gold": 15253,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Carissa52",
+        "kills": 14,
+        "deaths": 7,
+        "assists": 12,
+        "gold": 13786,
+        "medal": "GOLD",
+        "ratio": 13.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T13:32:39.223Z",
+    "group": "SOLO",
     "result": "DEFEAT",
+    "my_team_score": 3,
+    "adversary_team_score": 39,
+    "duration": "12:52",
+    "my_team": [
+      {
+        "nickname": "Tevin89",
+        "kills": 0,
+        "deaths": 7,
+        "assists": 19,
+        "gold": 9788,
+        "medal": "GOLD",
+        "ratio": 10.3,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Domingo60",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 4,
+        "gold": 14178,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Filiberto_Herman",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 15,
+        "gold": 8989,
+        "medal": "GOLD",
+        "ratio": 9.4,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Noemi31",
+        "kills": 0,
+        "deaths": 4,
+        "assists": 19,
+        "gold": 10166,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 3,
+        "deaths": 15,
+        "assists": 11,
+        "gold": 15279,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T14:35:13.647Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 29,
+    "adversary_team_score": 22,
+    "duration": "08:06",
+    "my_team": [
+      {
+        "nickname": "Shania_Rowe41",
+        "kills": 5,
+        "deaths": 15,
+        "assists": 6,
+        "gold": 11660,
+        "medal": "COPPER",
+        "ratio": 3.4,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Daphney86",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 2,
+        "gold": 12373,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Vanessa1",
+        "kills": 6,
+        "deaths": 11,
+        "assists": 20,
+        "gold": 15006,
+        "medal": "GOLD",
+        "ratio": 11.6,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 13,
+        "deaths": 3,
+        "assists": 11,
+        "gold": 13711,
+        "medal": "GOLD",
+        "ratio": 14.1,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Enny",
+        "kills": 5,
+        "deaths": 12,
+        "assists": 11,
+        "gold": 9087,
+        "medal": "SILVER",
+        "ratio": 6.9,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-28T20:04:12.994Z",
+    "group": "SOLO",
+    "result": "VICTORY",
     "my_team_score": 11,
-    "adversary_team_score": 31,
-    "duration": "25:19",
+    "adversary_team_score": 3,
+    "duration": "15:54",
     "my_team": [
       {
         "nickname": "MTF7",
-        "kills": 5,
-        "deaths": 11,
-        "assists": 13,
-        "gold": 9178,
+        "kills": 0,
+        "deaths": 5,
+        "assists": 12,
+        "gold": 14899,
         "medal": "GOLD",
         "ratio": 8.1,
         "position": 1,
         "is_mvp": false
       },
       {
-        "nickname": "Karianne4",
-        "kills": 2,
-        "deaths": 15,
-        "assists": 7,
-        "gold": 9105,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Althea_Crooks",
-        "kills": 1,
-        "deaths": 11,
-        "assists": 12,
-        "gold": 11382,
-        "medal": "SILVER",
-        "ratio": 6,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Rossie5",
+        "nickname": "Jamie.Treutel43",
         "kills": 0,
-        "deaths": 1,
-        "assists": 16,
-        "gold": 13818,
+        "deaths": 2,
+        "assists": 17,
+        "gold": 15463,
         "medal": "GOLD",
         "ratio": 11.6,
-        "position": 4,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Percy_Collier-Kerluke1",
-        "kills": 5,
-        "deaths": 8,
-        "assists": 12,
-        "gold": 14576,
-        "medal": "GOLD",
-        "ratio": 9,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 11,
-    "adversary_team_score": 31,
-    "duration": "19:09",
-    "my_team": [
-      {
-        "nickname": "Christy_Wilkinson73",
-        "kills": 4,
-        "deaths": 7,
-        "assists": 17,
-        "gold": 8748,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 22,
-        "deaths": 7,
-        "assists": 6,
-        "gold": 10104,
-        "medal": "GOLD",
-        "ratio": 14.1,
         "position": 2,
         "is_mvp": true
       },
       {
-        "nickname": "Giovanni.Abbott",
+        "nickname": "Keely.Beahan",
         "kills": 1,
-        "deaths": 5,
-        "assists": 4,
-        "gold": 12634,
-        "medal": "SILVER",
-        "ratio": 5.1,
+        "deaths": 15,
+        "assists": 13,
+        "gold": 14401,
+        "medal": "COPPER",
+        "ratio": 4.7,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Valentine_Schroeder-Schuppe",
-        "kills": 6,
-        "deaths": 4,
-        "assists": 10,
-        "gold": 10021,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Gino.Ryan27",
-        "kills": 7,
-        "deaths": 13,
-        "assists": 12,
-        "gold": 9706,
-        "medal": "GOLD",
-        "ratio": 7.7,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 38,
-    "adversary_team_score": 31,
-    "duration": "25:24",
-    "my_team": [
-      {
-        "nickname": "Adriel44",
-        "kills": 4,
-        "deaths": 11,
-        "assists": 15,
-        "gold": 13837,
-        "medal": "GOLD",
-        "ratio": 8.6,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Ona.Schumm10",
-        "kills": 9,
+        "nickname": "Carroll_Rodriguez1",
+        "kills": 0,
         "deaths": 8,
-        "assists": 12,
-        "gold": 8802,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jose86",
-        "kills": 4,
-        "deaths": 2,
-        "assists": 12,
-        "gold": 13064,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 10,
-        "deaths": 11,
-        "assists": 3,
-        "gold": 10683,
+        "assists": 10,
+        "gold": 16252,
         "medal": "SILVER",
         "ratio": 6,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Angelita.Klocko24",
-        "kills": 7,
-        "deaths": 8,
-        "assists": 12,
-        "gold": 15702,
+        "nickname": "Axel.Gutkowski-Mraz",
+        "kills": 10,
+        "deaths": 6,
+        "assists": 1,
+        "gold": 14716,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-01-29T13:13:27.463Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 27,
+    "adversary_team_score": 42,
+    "duration": "30:22",
+    "my_team": [
+      {
+        "nickname": "Velva77",
+        "kills": 1,
+        "deaths": 4,
+        "assists": 14,
+        "gold": 10313,
         "medal": "GOLD",
         "ratio": 9.9,
-        "position": 5,
+        "position": 1,
         "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 24,
-    "adversary_team_score": 43,
-    "duration": "15:55",
-    "my_team": [
+      },
       {
-        "nickname": "Felipe_Ritchie",
+        "nickname": "Paris.Hand",
+        "kills": 11,
+        "deaths": 15,
+        "assists": 12,
+        "gold": 12008,
+        "medal": "GOLD",
+        "ratio": 8.6,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
         "kills": 1,
-        "deaths": 14,
-        "assists": 1,
-        "gold": 14973,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 6,
-        "deaths": 13,
-        "assists": 1,
-        "gold": 12087,
-        "medal": "COPPER",
-        "ratio": 3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Zoe_Heidenreich32",
-        "kills": 10,
-        "deaths": 0,
-        "assists": 3,
-        "gold": 14251,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Ceasar_Welch12",
-        "kills": 10,
         "deaths": 10,
-        "assists": 10,
-        "gold": 14794,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Sofia_Will24",
-        "kills": 17,
-        "deaths": 13,
-        "assists": 17,
-        "gold": 10449,
-        "medal": "GOLD",
-        "ratio": 14.1,
-        "position": 5,
-        "is_mvp": true
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 6,
-    "adversary_team_score": 20,
-    "duration": "23:13",
-    "my_team": [
-      {
-        "nickname": "Ricky.Schinner",
-        "kills": 10,
-        "deaths": 4,
-        "assists": 12,
-        "gold": 11602,
-        "medal": "GOLD",
-        "ratio": 12.9,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Russell.Brakus",
-        "kills": 18,
-        "deaths": 8,
-        "assists": 10,
-        "gold": 8494,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Brady.Frami21",
-        "kills": 17,
-        "deaths": 1,
-        "assists": 19,
-        "gold": 10044,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Jeremie24",
-        "kills": 20,
-        "deaths": 4,
-        "assists": 3,
-        "gold": 12331,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 21,
-        "deaths": 15,
-        "assists": 20,
-        "gold": 13330,
-        "medal": "GOLD",
-        "ratio": 16.3,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 47,
-    "adversary_team_score": 33,
-    "duration": "30:53",
-    "my_team": [
-      {
-        "nickname": "Ed73",
-        "kills": 16,
-        "deaths": 5,
         "assists": 7,
-        "gold": 16265,
-        "medal": "GOLD",
-        "ratio": 12.9,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Jody_Schumm19",
-        "kills": 4,
-        "deaths": 2,
-        "assists": 8,
-        "gold": 10901,
-        "medal": "GOLD",
-        "ratio": 9.4,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Regan30",
-        "kills": 17,
-        "deaths": 12,
-        "assists": 10,
-        "gold": 12638,
-        "medal": "GOLD",
-        "ratio": 11.6,
+        "gold": 8310,
+        "medal": "COPPER",
+        "ratio": 4.3,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "MTF7",
-        "kills": 21,
-        "deaths": 5,
-        "assists": 20,
-        "gold": 9638,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 4,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Johnpaul.West0",
-        "kills": 25,
-        "deaths": 13,
+        "nickname": "Marion.Marquardt19",
+        "kills": 13,
+        "deaths": 11,
         "assists": 13,
-        "gold": 17843,
+        "gold": 12533,
         "medal": "GOLD",
-        "ratio": 15.9,
+        "ratio": 11.6,
+        "position": 4,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Isac.Balistreri",
+        "kills": 1,
+        "deaths": 15,
+        "assists": 3,
+        "gold": 11278,
+        "medal": "COPPER",
+        "ratio": 3,
         "position": 5,
         "is_mvp": false
       }
@@ -2880,255 +3102,131 @@
     "enemy_team": []
   },
   {
-    "result": "DEFEAT",
-    "my_team_score": 14,
-    "adversary_team_score": 22,
-    "duration": "12:33",
+    "date": "2026-01-29T13:09:36.531Z",
+    "group": "DUO",
+    "result": "VICTORY",
+    "my_team_score": 26,
+    "adversary_team_score": 10,
+    "duration": "28:57",
     "my_team": [
-      {
-        "nickname": "Paxton.Pfannerstill",
-        "kills": 4,
-        "deaths": 0,
-        "assists": 19,
-        "gold": 16125,
-        "medal": "GOLD",
-        "ratio": 15,
-        "position": 1,
-        "is_mvp": false
-      },
       {
         "nickname": "MTF7",
         "kills": 10,
-        "deaths": 15,
-        "assists": 17,
-        "gold": 9938,
-        "medal": "GOLD",
-        "ratio": 10.3,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Bria_Gibson32",
-        "kills": 14,
-        "deaths": 3,
-        "assists": 12,
-        "gold": 15545,
-        "medal": "GOLD",
-        "ratio": 15,
-        "position": 3,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Hillary2",
-        "kills": 21,
-        "deaths": 14,
-        "assists": 7,
-        "gold": 11195,
-        "medal": "GOLD",
-        "ratio": 11.1,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "George33",
-        "kills": 7,
-        "deaths": 2,
-        "assists": 10,
-        "gold": 8352,
-        "medal": "GOLD",
-        "ratio": 11.6,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 15,
-    "adversary_team_score": 33,
-    "duration": "11:20",
-    "my_team": [
-      {
-        "nickname": "MTF7",
-        "kills": 17,
-        "deaths": 1,
-        "assists": 18,
-        "gold": 11147,
-        "medal": "GOLD",
-        "ratio": 18,
+        "deaths": 8,
+        "assists": 2,
+        "gold": 15552,
+        "medal": "SILVER",
+        "ratio": 6.9,
         "position": 1,
-        "is_mvp": true
+        "is_mvp": false
       },
       {
-        "nickname": "Vicky.Bahringer51",
-        "kills": 16,
-        "deaths": 1,
-        "assists": 1,
-        "gold": 15899,
+        "nickname": "Enny",
+        "kills": 9,
+        "deaths": 2,
+        "assists": 9,
+        "gold": 9100,
         "medal": "GOLD",
         "ratio": 12,
         "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Dora.Spencer-Hickle",
-        "kills": 4,
-        "deaths": 11,
-        "assists": 11,
-        "gold": 14843,
-        "medal": "SILVER",
-        "ratio": 6.9,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Lexie.Kemmer",
-        "kills": 4,
-        "deaths": 9,
-        "assists": 18,
-        "gold": 12310,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Brittany87",
-        "kills": 16,
-        "deaths": 11,
-        "assists": 14,
-        "gold": 8741,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "DEFEAT",
-    "my_team_score": 22,
-    "adversary_team_score": 22,
-    "duration": "24:29",
-    "my_team": [
-      {
-        "nickname": "Thelma45",
-        "kills": 5,
-        "deaths": 0,
-        "assists": 18,
-        "gold": 16402,
-        "medal": "GOLD",
-        "ratio": 15,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Pattie.Labadie34",
-        "kills": 16,
-        "deaths": 5,
-        "assists": 2,
-        "gold": 12111,
-        "medal": "GOLD",
-        "ratio": 10.7,
-        "position": 2,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Joel_Olson",
-        "kills": 22,
-        "deaths": 10,
-        "assists": 13,
-        "gold": 9067,
-        "medal": "GOLD",
-        "ratio": 15.9,
-        "position": 3,
         "is_mvp": true
       },
       {
-        "nickname": "MTF7",
-        "kills": 16,
-        "deaths": 4,
-        "assists": 10,
-        "gold": 8497,
-        "medal": "GOLD",
-        "ratio": 14.6,
-        "position": 4,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Ross5",
-        "kills": 9,
-        "deaths": 12,
-        "assists": 6,
-        "gold": 11241,
-        "medal": "SILVER",
-        "ratio": 6.4,
-        "position": 5,
-        "is_mvp": false
-      }
-    ],
-    "enemy_team": []
-  },
-  {
-    "result": "VICTORY",
-    "my_team_score": 40,
-    "adversary_team_score": 0,
-    "duration": "19:36",
-    "my_team": [
-      {
-        "nickname": "Teresa.Champlin",
-        "kills": 25,
-        "deaths": 9,
-        "assists": 4,
-        "gold": 12809,
-        "medal": "GOLD",
-        "ratio": 13.7,
-        "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "MTF7",
-        "kills": 23,
-        "deaths": 0,
-        "assists": 7,
-        "gold": 12002,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
-        "is_mvp": true
-      },
-      {
-        "nickname": "Arne.Altenwerth32",
-        "kills": 14,
-        "deaths": 13,
-        "assists": 18,
-        "gold": 11109,
-        "medal": "GOLD",
-        "ratio": 13.3,
-        "position": 3,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Daniella.Kreiger58",
-        "kills": 16,
+        "nickname": "Sadie10",
+        "kills": 3,
         "deaths": 15,
-        "assists": 10,
-        "gold": 17967,
+        "assists": 17,
+        "gold": 12532,
+        "medal": "SILVER",
+        "ratio": 7.3,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Vinnie.Turner85",
+        "kills": 2,
+        "deaths": 14,
+        "assists": 3,
+        "gold": 8739,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Carol_Watsica41",
+        "kills": 2,
+        "deaths": 11,
+        "assists": 7,
+        "gold": 12690,
+        "medal": "COPPER",
+        "ratio": 4.3,
+        "position": 5,
+        "is_mvp": false
+      }
+    ],
+    "enemy_team": []
+  },
+  {
+    "date": "2026-02-02T21:05:08.448Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 2,
+    "adversary_team_score": 40,
+    "duration": "24:07",
+    "my_team": [
+      {
+        "nickname": "MTF7",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 16,
+        "gold": 11098,
         "medal": "GOLD",
         "ratio": 9.9,
+        "position": 1,
+        "is_mvp": true
+      },
+      {
+        "nickname": "Halie_Emmerich-Spencer",
+        "kills": 0,
+        "deaths": 14,
+        "assists": 8,
+        "gold": 17197,
+        "medal": "COPPER",
+        "ratio": 3,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Mylene_Altenwerth",
+        "kills": 2,
+        "deaths": 5,
+        "assists": 4,
+        "gold": 12237,
+        "medal": "SILVER",
+        "ratio": 5.6,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Una.Leffler",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 9,
+        "gold": 16914,
+        "medal": "COPPER",
+        "ratio": 3.9,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Albertha_Medhurst",
-        "kills": 12,
-        "deaths": 14,
-        "assists": 10,
-        "gold": 14736,
-        "medal": "GOLD",
-        "ratio": 8.6,
+        "nickname": "Margaretta43",
+        "kills": 0,
+        "deaths": 3,
+        "assists": 1,
+        "gold": 11148,
+        "medal": "COPPER",
+        "ratio": 4.3,
         "position": 5,
         "is_mvp": false
       }
@@ -3136,63 +3234,65 @@
     "enemy_team": []
   },
   {
-    "result": "VICTORY",
-    "my_team_score": 41,
-    "adversary_team_score": 18,
-    "duration": "13:46",
+    "date": "2026-01-29T17:24:46.203Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 16,
+    "adversary_team_score": 40,
+    "duration": "08:31",
     "my_team": [
       {
-        "nickname": "MTF7",
-        "kills": 25,
-        "deaths": 4,
-        "assists": 15,
-        "gold": 9662,
+        "nickname": "Caitlyn_Bailey",
+        "kills": 6,
+        "deaths": 0,
+        "assists": 14,
+        "gold": 12359,
         "medal": "GOLD",
-        "ratio": 18,
+        "ratio": 13.7,
         "position": 1,
-        "is_mvp": false
-      },
-      {
-        "nickname": "Caden.Prohaska",
-        "kills": 25,
-        "deaths": 6,
-        "assists": 19,
-        "gold": 9495,
-        "medal": "GOLD",
-        "ratio": 18,
-        "position": 2,
         "is_mvp": true
       },
       {
-        "nickname": "Marcus_Hartmann50",
-        "kills": 10,
-        "deaths": 12,
-        "assists": 19,
-        "gold": 17001,
-        "medal": "GOLD",
-        "ratio": 12.4,
+        "nickname": "MTF7",
+        "kills": 3,
+        "deaths": 15,
+        "assists": 9,
+        "gold": 11989,
+        "medal": "COPPER",
+        "ratio": 3.9,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Evert_Lemke-Gerlach",
+        "kills": 0,
+        "deaths": 4,
+        "assists": 9,
+        "gold": 15352,
+        "medal": "SILVER",
+        "ratio": 7.3,
         "position": 3,
         "is_mvp": false
       },
       {
-        "nickname": "Gus77",
-        "kills": 20,
-        "deaths": 3,
-        "assists": 3,
-        "gold": 16829,
+        "nickname": "Talon_Ankunding",
+        "kills": 7,
+        "deaths": 1,
+        "assists": 4,
+        "gold": 16977,
         "medal": "GOLD",
-        "ratio": 13.7,
+        "ratio": 9.4,
         "position": 4,
         "is_mvp": false
       },
       {
-        "nickname": "Leta.Nitzsche11",
-        "kills": 10,
-        "deaths": 15,
-        "assists": 6,
-        "gold": 11430,
+        "nickname": "Tracy_Doyle",
+        "kills": 0,
+        "deaths": 5,
+        "assists": 9,
+        "gold": 10789,
         "medal": "SILVER",
-        "ratio": 5.6,
+        "ratio": 6.9,
         "position": 5,
         "is_mvp": false
       }

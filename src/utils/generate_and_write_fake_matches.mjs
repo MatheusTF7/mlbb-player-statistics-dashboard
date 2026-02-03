@@ -2,7 +2,12 @@ import { faker } from '@faker-js/faker';
 import fs from 'fs/promises';
 import path from 'path';
 
-// TO EXECUTE SCRIPT: node "src/utils/generate_and_write_fake_matches.mjs" number_int nickname
+// TO EXECUTE SCRIPT:
+// node "src/utils/generate_and_write_fake_matches.mjs" how_many_int fixed_nickname [teammates_spec] [out_path]
+//
+// teammates_spec format examples:
+//  - single teammate: "Alice:30"  -> Alice appears with the user in ~30% of matches
+//  - two teammates: "Bob:20,Carol:10" -> Bob appears in ~20% of matches, Carol in ~10%; when both appear it's a trio
 
 function fmtDuration(minutes, seconds) {
   const mm = String(minutes).padStart(2, '0');
@@ -26,37 +31,107 @@ function medalFromRatio(ratio) {
   return 'COPPER';
 }
 
-function generateFakeMatches(count, nickname) {
+function randomDateWithinLastDays(days) {
+  const now = Date.now();
+  const past = now - days * 24 * 60 * 60 * 1000;
+  const t = Math.floor(Math.random() * (now - past)) + past;
+  return new Date(t).toISOString();
+}
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+function parseTeammatesSpec(spec) {
+  if (!spec) return [];
+  // expected format: "Name:percent,Name2:percent2"
+  return spec
+    .split(',')
+    .map((part) => {
+      const [rawName, rawPct] = part.split(':');
+      const name = (rawName || '').trim();
+      const percent = Number(rawPct == null ? 0 : rawPct);
+      return { name, percent: isNaN(percent) ? 0 : percent };
+    })
+    .filter((t) => t.name);
+}
+function generateFakeMatches(count, nickname, teammates = []) {
   const matches = [];
   for (let i = 0; i < count; i++) {
     const my_team_score = faker.number.int({ min: 0, max: 50 });
     const adversary_team_score = faker.number.int({ min: 0, max: 50 });
     const minutes = faker.number.int({ min: 8, max: 30 });
     const seconds = faker.number.int({ min: 0, max: 59 });
-    const nicknameIndex = faker.number.int({ min: 0, max: 4 });
-
     const my_team = [];
+
+    // decide which fixed teammates (if any) appear in this match according to their percent chance
+    const includedTeammates = [];
+    if (Array.isArray(teammates) && teammates.length) {
+      teammates.forEach((t) => {
+        const pct = Math.max(0, Math.min(100, Number(t.percent || 0)));
+        if (Math.random() * 100 < pct) includedTeammates.push(t.name);
+      });
+    }
+
+    // randomize positions and assign user + included teammates to unique slots
+    const positions = shuffle([0, 1, 2, 3, 4]);
+    const assigned = new Array(5).fill(null);
+    assigned[positions[0]] = nickname; // ensure user is always present
+    for (let k = 0; k < includedTeammates.length && k < 4; k++) {
+      assigned[positions[k + 1]] = includedTeammates[k];
+    }
+
     for (let p = 0; p < 5; p++) {
-      const isNickname = p === nicknameIndex;
+      const playerNickname = assigned[p] || `${faker.internet.username()}`;
       const kills = faker.number.int({ min: 0, max: 25 });
       const deaths = faker.number.int({ min: 0, max: 15 });
       const assists = faker.number.int({ min: 0, max: 20 });
       const gold = faker.number.int({ min: 8000, max: 18000 });
-      const ratio = computeRatioFromKDA(kills, assists, deaths);
-      const medal = medalFromRatio(ratio);
 
+      // push raw values first; ratio/medal will be computed after kills adjustment
       my_team.push({
-        nickname: isNickname ? nickname : `${faker.internet.username()}`,
+        nickname: playerNickname,
         kills,
         deaths,
         assists,
         gold,
-        medal,
-        ratio,
+        medal: null,
+        ratio: null,
         position: p + 1,
         is_mvp: false,
       });
     }
+
+    // adjust kills so their sum equals my_team_score
+    const sumKills = () => my_team.reduce((s, pl) => s + (pl.kills || 0), 0);
+    let diff = my_team_score - sumKills();
+    if (diff > 0) {
+      // add kills distributed randomly until diff is zero
+      while (diff > 0) {
+        const idx = Math.floor(Math.random() * 5);
+        my_team[idx].kills = (my_team[idx].kills || 0) + 1;
+        diff -= 1;
+      }
+    } else if (diff < 0) {
+      // remove kills from players that have >0 kills until diff is zero
+      while (diff < 0) {
+        const idx = Math.floor(Math.random() * 5);
+        if ((my_team[idx].kills || 0) > 0) {
+          my_team[idx].kills -= 1;
+          diff += 1;
+        }
+      }
+    }
+
+    // recompute ratio and medal after kills adjustments
+    my_team.forEach((pl) => {
+      const ratio = computeRatioFromKDA(pl.kills, pl.assists, pl.deaths);
+      pl.ratio = ratio;
+      pl.medal = medalFromRatio(ratio);
+    });
 
     // select MVP using ratio > kills > assists > fewer deaths
     let mvpIndex = 0;
@@ -87,7 +162,18 @@ function generateFakeMatches(count, nickname) {
       pl.is_mvp = idx === mvpIndex;
     });
 
+    const group =
+      includedTeammates.length === 0
+        ? 'SOLO'
+        : includedTeammates.length === 1
+          ? 'DUO'
+          : includedTeammates.length === 2
+            ? 'TRIO'
+            : 'FULL';
+
     matches.push({
+      date: randomDateWithinLastDays(7),
+      group,
       result: my_team_score > adversary_team_score ? 'VICTORY' : 'DEFEAT',
       my_team_score,
       adversary_team_score,
@@ -100,10 +186,11 @@ function generateFakeMatches(count, nickname) {
 }
 
 async function main() {
-  const [, , countArg, nick, outPath] = process.argv;
+  const [, , countArg, nick, teammatesSpec, outPath] = process.argv;
   const count = parseInt(countArg || '50', 10);
   const nickname = nick || 'MTF7';
-  const matches = generateFakeMatches(count, nickname);
+  const teammates = parseTeammatesSpec(teammatesSpec);
+  const matches = generateFakeMatches(count, nickname, teammates);
   const target = outPath
     ? path.resolve(outPath)
     : path.resolve(process.cwd(), 'src/data/matches_fake.json');
