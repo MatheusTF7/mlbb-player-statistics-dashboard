@@ -17,3 +17,11 @@ git add . -f
 git commit -m "Deploy Quasar"
 git push -f origin gh-pages
 ```
+
+# Remover branch gh-pages
+
+1.
+
+```bash
+push origin --delete gh-pages
+```

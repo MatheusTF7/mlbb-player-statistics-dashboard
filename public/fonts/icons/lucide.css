@@ -1,10 +1,10 @@
 @font-face {
   font-family: "lucide";
-  src: url('/fonts/icons/lucide.eot?t=1765373130489'); /* IE9*/
-  src: url('/fonts/icons/lucide.eot?t=1765373130489#iefix') format('embedded-opentype') /* IE6-IE8 */,
-  url('/fonts/icons/lucide.woff2?t=1765373130489') format('woff2'),
-  url('/fonts/icons/lucide.woff?t=1765373130489') format('woff'),
-  url('/fonts/icons/lucide.ttf?t=1765373130489') format('truetype');
+  src: url('./lucide.eot?t=1765373130489'); /* IE9*/
+  src: url('./lucide.eot?t=1765373130489#iefix') format('embedded-opentype') /* IE6-IE8 */,
+  url('./lucide.woff2?t=1765373130489') format('woff2'),
+  url('./lucide.woff?t=1765373130489') format('woff'),
+  url('./lucide.ttf?t=1765373130489') format('truetype');
   /* url('lucide.svg?t=1765373130489') format('svg'); */ /* Legacy iOS */
 }
 
