@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-02-03T07:02:56.718Z",
+    "group": "SOLO",
+    "result": "DEFEAT",
+    "my_team_score": 38,
+    "adversary_team_score": 48,
+    "duration": "10:42",
+    "my_team": [
+      {
+        "nickname": "Tyler.Heaney77",
+        "kills": 0,
+        "deaths": 11,
+        "assists": 20,
+        "gold": 12982,
+        "medal": "GOLD",
+        "ratio": 9,
+        "position": 1,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Randi_Gutkowski",
+        "kills": 0,
+        "deaths": 12,
+        "assists": 11,
+        "gold": 15246,
+        "medal": "COPPER",
+        "ratio": 4.7,
+        "position": 2,
+        "is_mvp": false
+      },
+      {
+        "nickname": "MTF7",
+        "kills": 17,
+        "deaths": 2,
+        "assists": 3,
+        "gold": 8260,
+        "medal": "GOLD",
+        "ratio": 12.9,
+        "position": 3,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Pauline_Wolff",
+        "kills": 0,
+        "deaths": 9,
+        "assists": 15,
+        "gold": 9532,
+        "medal": "GOLD",
+        "ratio": 7.7,
+        "position": 4,
+        "is_mvp": false
+      },
+      {
+        "nickname": "Stephon_Hyatt96",
+        "kills": 21,
+        "deaths": 5,
+        "assists": 14,
+        "gold": 14226,
+        "medal": "GOLD",
+        "ratio": 18,
+        "position": 5,
+        "is_mvp": true
+      }
+    ],
+    "enemy_team": []
+  }
+]

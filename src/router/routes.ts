@@ -15,10 +15,13 @@ const routes: RouteRecordRaw[] = [
   {
     path: '/dashboard',
     component: () => import('layouts/MainLayout.vue'),
-    children: [
-      { path: '', component: () => import('pages/MatchDashboard.vue') },
-      { path: 'todos', component: () => import('pages/TodosPage.vue') },
-    ],
+    children: [{ path: '', component: () => import('pages/MatchDashboard.vue') }],
+  },
+
+  {
+    path: '/todos',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('pages/TodosPage.vue') }],
   },
 
   {
@@ -28,6 +31,12 @@ const routes: RouteRecordRaw[] = [
       { path: '', component: () => import('pages/PlayerDetailPage.vue') },
       { path: ':nickname', component: () => import('pages/PlayerDetailPage.vue') },
     ],
+  },
+
+  {
+    path: '/team',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [{ path: '', component: () => import('pages/TeamAnalysisPage.vue') }],
   },
 
   // Always leave this as last one,
