@@ -56,16 +56,34 @@ const linksList: EssentialLinkProps[] = [
     link: '/player',
   },
   {
+    title: 'Team Analysis',
+    caption: 'Teammate statistics (DUO/TRIO/FULL_SQUAD)',
+    icon: 'lucide:users',
+    link: '/team',
+  },
+  {
     title: 'TODOs',
     caption: 'Próximos passos e tarefas',
     icon: 'lucide:list',
-    link: '/dashboard/todos',
+    link: '/todos',
   },
   {
     title: 'Region Editor',
     caption: 'Edit MLBB image regions',
     icon: 'lucide:image',
     link: '/mlbb',
+  },
+  {
+    title: 'Extrator de Dados (WIP)',
+    caption: 'Extrair dados das partidas do MLBB com base em imagens (Work in progress, local)',
+    icon: 'lucide:scan-search',
+    link: 'https://github.com/MatheusTF7/mlbb-img-data-extractor',
+  },
+  {
+    title: 'About',
+    caption: 'Sobre este projeto',
+    icon: 'lucide:info',
+    link: '/about',
   },
 ];
 

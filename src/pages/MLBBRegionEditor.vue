@@ -4,7 +4,8 @@
     <div class="q-mb-lg">
       <h4 class="text-h4 q-my-none">MLBB Region Editor</h4>
       <p class="text-body2 text-grey-7 q-mt-sm">
-        Editor de regiões para extração de dados de screenshots do Mobile Legends
+        Editor de regiões para extração de dados de screenshots do Mobile Legends (Configuração a
+        ser usada no extrator de dados).
       </p>
     </div>
 

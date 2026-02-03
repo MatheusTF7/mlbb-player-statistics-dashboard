@@ -169,7 +169,7 @@ function generateFakeMatches(count, nickname, teammates = []) {
           ? 'DUO'
           : includedTeammates.length === 2
             ? 'TRIO'
-            : 'FULL';
+            : 'FULL_SQUAD';
 
     matches.push({
       date: randomDateWithinLastDays(7),

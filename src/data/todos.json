@@ -1,5 +1,5 @@
 [
-  { "id": 1, "title": "Adicionar data e outras estatísticas da partida", "status": "not-started" },
+  { "id": 1, "title": "Adicionar data e outras estatísticas da partida", "status": "completed" },
   { "id": 3, "title": "Adicionar filtros (data, resultado, medalha)", "status": "not-started" },
   { "id": 4, "title": "Exportar/Importar datasets (JSON)", "status": "not-started" },
   { "id": 5, "title": "Adicionar filtros e pesquisa na tabela", "status": "not-started" },
@@ -8,7 +8,7 @@
   { "id": 8, "title": "Documentar uso e exemplos (README)", "status": "not-started" },
   { "id": 9, "title": "Adicionar Heróis usados na partida", "status": "not-started" },
   { "id": 10, "title": "Adicionar Builds usadas na partida", "status": "not-started" },
-  { "id": 11, "title": "Adicionar estatísticas detalhadas de parceiros", "status": "not-started" },
+  { "id": 11, "title": "Adicionar estatísticas detalhadas de parceiros", "status": "completed" },
   { "id": 12, "title": "Adicionar estatísticas do time adversário", "status": "not-started" },
   {
     "id": 13,
@@ -18,7 +18,17 @@
   { "id": 14, "title": "Criar análises detalhadas de partidas", "status": "not-started" },
   {
     "id": 15,
-    "title": "Criar análise de teamates e adversários (agrupar estatísticas de vitória/derrota com/contra jogadores específicos)",
+    "title": "Criar análise de teamates (agrupar estatísticas de vitória/derrota com jogadores específicos)",
+    "status": "completed"
+  },
+  {
+    "id": 16,
+    "title": "Criar análise de adversários (agrupar estatísticas de vitória/derrota, etc.",
+    "status": "not-started"
+  },
+  {
+    "id": 17,
+    "title": "Criar análise face to face (estatísticas contra jogadores específicos)",
     "status": "not-started"
   }
 ]

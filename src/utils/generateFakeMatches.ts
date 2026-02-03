@@ -33,7 +33,7 @@ const GROUPS = {
   SOLO: 'SOLO',
   DUO: 'DUO',
   TRIO: 'TRIO',
-  FULL: 'FULL',
+  FULL_SQUAD: 'FULL_SQUAD',
 } as const;
 
 type MedalType = (typeof MEDALS)[keyof typeof MEDALS];
@@ -65,7 +65,7 @@ export default function generateFakeMatches(count: number, nickname: string): Ma
       GROUPS.SOLO,
       GROUPS.DUO,
       GROUPS.TRIO,
-      GROUPS.FULL,
+      GROUPS.FULL_SQUAD,
     ]);
     const adversary_team_score = faker.number.int({ min: 0, max: 50 });
     const minutes = faker.number.int({ min: 8, max: 30 });
