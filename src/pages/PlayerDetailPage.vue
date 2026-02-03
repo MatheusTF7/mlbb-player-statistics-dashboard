@@ -469,7 +469,7 @@ const kdaChartSeries = computed(() => [
 ]);
 
 const ratioChartSeries = computed(() => [
-  { name: 'Ratio', data: kdaTrend.value.ratios, color: '#FF9800', smooth: true, areaStyle: true },
+  { name: 'Ratio', data: kdaTrend.value.ratios, color: '#2563eb', smooth: true, areaStyle: true },
 ]);
 
 const historyColumns = [

@@ -9,7 +9,7 @@
         <div>
           <q-btn
             :color="darkMode ? 'yellow' : 'blue-grey-9'"
-            :icon="darkMode ? 'dark_mode' : 'light_mode'"
+            :icon="darkMode ? 'lucide:moon' : 'lucide:sun'"
             round
             dense
             flat
@@ -46,25 +46,25 @@ const linksList: EssentialLinkProps[] = [
   {
     title: 'Dashboard',
     caption: 'Match statistics and analysis',
-    icon: 'dashboard',
+    icon: 'lucide:layout-dashboard',
     link: '/dashboard',
   },
   {
     title: 'Player Analysis',
     caption: 'Individual player stats',
-    icon: 'person',
+    icon: 'lucide:user',
     link: '/player',
   },
   {
     title: 'TODOs',
     caption: 'Próximos passos e tarefas',
-    icon: 'list',
+    icon: 'lucide:list',
     link: '/dashboard/todos',
   },
   {
     title: 'Region Editor',
     caption: 'Edit MLBB image regions',
-    icon: 'image',
+    icon: 'lucide:image',
     link: '/mlbb',
   },
 ];
